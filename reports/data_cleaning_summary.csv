@@ -1,0 +1,6 @@
+dataset,original_rows,cleaned_rows,rows_removed,missing_cells_after_cleaning,duplicate_rows_after_cleaning,output_file
+customers,20000,20000,0,0,0,data\cleaned\customers.csv
+vehicles,25000,25000,0,0,0,data\cleaned\vehicles.csv
+policies,25000,25000,0,0,0,data\cleaned\policies.csv
+claims,10000,10000,0,9692,0,data\cleaned\claims.csv
+payments,7000,7000,0,0,0,data\cleaned\payments.csv

@@ -1,0 +1,1474 @@
+accident_location,claim_count,total_claim_amount,average_claim_amount
+National Highway,1703,492863811.03,289409.1667821491
+Parking Area,1687,496172261.18,294115.15185536456
+City Road,1673,481807680.5,287990.2453676031
+Highway,1673,471390397.47,281763.5370412433
+Residential Area,1662,485306727.79,292001.6412695548
+"Ambattur, Punjab",3,364295.9,121431.96666666667
+"Kirari Suleman Nagar, Mizoram",3,375230.58999999997,125076.86333333333
+"Bongaigaon, Bihar",3,574976.53,191658.84333333335
+"Medininagar, Rajasthan",3,1173740.6099999999,391246.86999999994
+"Nellore, Sikkim",3,946908.24,315636.08
+"Tiruppur, Haryana",3,545639.94,181879.97999999998
+"Bhind, Maharashtra",2,459363.47,229681.735
+"Dindigul, Chhattisgarh",2,567053.86,283526.93
+"Chapra, Uttar Pradesh",2,678992.6499999999,339496.32499999995
+"Guwahati, Goa",2,604099.2,302049.6
+"Dindigul, Punjab",2,407685.76,203842.88
+"Hazaribagh, Madhya Pradesh",2,309215.81,154607.905
+"Farrukhabad, Karnataka",2,399853.47,199926.735
+"Dehradun, Uttar Pradesh",2,301318.04000000004,150659.02000000002
+"Bhiwani, Telangana",2,767594.47,383797.235
+"Chinsurah, Karnataka",2,1648299.9500000002,824149.9750000001
+"Guwahati, Nagaland",2,343928.89,171964.445
+"Ghaziabad, Tripura",2,411202.14,205601.07
+"Ahmednagar, Madhya Pradesh",2,506864.45999999996,253432.22999999998
+"Karnal, Goa",2,319505.14,159752.57
+"Hindupur, Assam",2,683624.56,341812.28
+"Anantapur, Telangana",2,321720.76,160860.38
+"Kota, Maharashtra",2,268263.23,134131.615
+"Anantapur, West Bengal",2,455922.43000000005,227961.21500000003
+"Akola, Chhattisgarh",2,1322026.97,661013.485
+"Jabalpur, Punjab",2,801330.29,400665.145
+"Alappuzha, Kerala",2,389430.39,194715.195
+"Bhatpara, Karnataka",2,315899.55,157949.775
+"Amravati, Manipur",2,220265.1,110132.55
+"Bardhaman, Tamil Nadu",2,1061149.5899999999,530574.7949999999
+"Deoghar, Odisha",2,296036.52,148018.26
+"Jamalpur, Odisha",2,287084.42,143542.21
+"Bhusawal, Uttar Pradesh",2,814475.12,407237.56
+"Bhilai, Assam",2,386722.91000000003,193361.45500000002
+"Aligarh, Uttarakhand",2,633944.9600000001,316972.48000000004
+"Bhilai, Gujarat",2,435796.69,217898.345
+"Kalyan-Dombivli, Telangana",2,1619251.3900000001,809625.6950000001
+"Asansol, Haryana",2,691708.88,345854.44
+"Jalgaon, Bihar",2,1262983.85,631491.925
+"Kadapa, Bihar",2,1067208.42,533604.21
+"Alwar, Odisha",2,865323.16,432661.58
+"Aurangabad, Assam",2,546909.91,273454.955
+"Katni, Maharashtra",2,607369.41,303684.705
+"Amaravati, Bihar",2,621735.54,310867.77
+"Kamarhati, Punjab",2,453191.32999999996,226595.66499999998
+"Imphal, Uttar Pradesh",2,443451.62,221725.81
+"Bihar Sharif, Haryana",2,609429.5,304714.75
+"Kishanganj, Punjab",2,447194.77,223597.385
+"Bihar Sharif, Manipur",2,392503.54,196251.77
+"Jalgaon, Mizoram",2,311473.31,155736.655
+"Khammam, Uttarakhand",2,296046.82,148023.41
+"Bhimavaram, Andhra Pradesh",2,1155299.05,577649.525
+"Etawah, Nagaland",2,830488.4,415244.2
+"Darbhanga, Sikkim",2,1654563.0699999998,827281.5349999999
+"Bellary, Odisha",2,181932.79,90966.395
+"Karawal Nagar, Chhattisgarh",2,429122.81999999995,214561.40999999997
+"Berhampore, Andhra Pradesh",2,443724.75,221862.375
+"Chandrapur, Uttarakhand",2,322568.56,161284.28
+"Bhimavaram, Odisha",2,560817.93,280408.965
+"Kolkata, Mizoram",2,509140.44,254570.22
+"Kozhikode, Kerala",2,579567.46,289783.73
+"Kumbakonam, Rajasthan",2,678075.6599999999,339037.82999999996
+"Kurnool, Gujarat",2,583011.0599999999,291505.52999999997
+"Latur, Kerala",2,1271557.27,635778.635
+"Lucknow, Chhattisgarh",2,668944.56,334472.28
+"Lucknow, Maharashtra",2,184516.33000000002,92258.16500000001
+"Lucknow, Mizoram",2,153653.98,76826.99
+"Malegaon, Arunachal Pradesh",2,162828.36,81414.18
+"Mango, Manipur",2,413937.5,206968.75
+"Mango, Odisha",2,434351.44,217175.72
+"Medininagar, Andhra Pradesh",2,218282.74,109141.37
+"Jabalpur, Karnataka",2,561280.83,280640.415
+"Mehsana, Punjab",2,362979.46,181489.73
+"Mira-Bhayandar, Mizoram",2,173012.85,86506.425
+"Miryalaguda, Arunachal Pradesh",2,565928.0,282964.0
+"Miryalaguda, Karnataka",2,373119.58,186559.79
+"Morbi, Bihar",2,614818.46,307409.23
+"Morena, Arunachal Pradesh",2,1717169.37,858584.685
+"Mumbai, Arunachal Pradesh",2,477292.28,238646.14
+"Munger, Sikkim",2,485951.65,242975.825
+"Muzaffarnagar, Andhra Pradesh",2,2119789.31,1059894.655
+"Muzaffarnagar, Assam",2,237135.27000000002,118567.63500000001
+"Muzaffarnagar, Rajasthan",2,191975.81,95987.905
+"Mysore, Karnataka",2,376431.32999999996,188215.66499999998
+"Nagpur, Sikkim",2,970969.19,485484.595
+"Naihati, Himachal Pradesh",2,776202.77,388101.385
+"Nandyal, Andhra Pradesh",2,490113.6,245056.8
+"Nandyal, Punjab",2,461075.27,230537.635
+"Narasaraopet, Karnataka",2,547429.36,273714.68
+"Narasaraopet, Uttar Pradesh",2,196995.51,98497.755
+"Gaya, Punjab",2,691708.96,345854.48
+"Hubli–Dharwad, West Bengal",2,583404.02,291702.01
+"Noida, Gujarat",2,1281919.7799999998,640959.8899999999
+"Orai, Andhra Pradesh",2,506601.27,253300.635
+"Orai, Karnataka",2,356507.94,178253.97
+"Pallavaram, Sikkim",2,172710.77000000002,86355.38500000001
+"Berhampur, Madhya Pradesh",2,267769.83,133884.915
+"Phagwara, West Bengal",2,97508.57,48754.285
+"Pondicherry, Chhattisgarh",2,404510.16,202255.08
+"Pune, Karnataka",2,1153280.25,576640.125
+"Raebareli, Nagaland",2,264574.38,132287.19
+"Raebareli, Uttarakhand",2,261284.69,130642.345
+"Rajkot, Arunachal Pradesh",2,1384586.6600000001,692293.3300000001
+"Ramagundam, Rajasthan",2,577711.51,288855.755
+"Raurkela Industrial Township, Karnataka",2,113882.69,56941.345
+"Warangal, Arunachal Pradesh",2,73538.86,36769.43
+"Rohtak, Telangana",2,350185.53,175092.765
+"Rourkela, Andhra Pradesh",2,275624.52,137812.26
+"Saharanpur, Meghalaya",2,197843.46,98921.73
+"Sangli-Miraj & Kupwad, Manipur",2,829061.0,414530.5
+"Sangli-Miraj & Kupwad, Odisha",2,480795.3,240397.65
+"Shimla, Chhattisgarh",2,766432.8400000001,383216.42000000004
+"Shimla, Telangana",2,802502.55,401251.275
+"Shimoga, Andhra Pradesh",2,563362.45,281681.225
+"Shivpuri, Gujarat",2,114548.79000000001,57274.395000000004
+"Silchar, Himachal Pradesh",2,1032395.97,516197.985
+"Singrauli, Odisha",2,183806.1,91903.05
+"Srikakulam, Karnataka",2,1081155.7,540577.85
+"Srikakulam, Uttarakhand",2,372200.08999999997,186100.04499999998
+"Surendranagar Dudhrej, Haryana",2,1148873.29,574436.645
+"Tadepalligudem, Nagaland",2,479556.39,239778.195
+"Tadipatri, Nagaland",2,879061.69,439530.845
+"Tezpur, Meghalaya",2,598097.28,299048.64
+"Thrissur, Assam",2,296107.67000000004,148053.83500000002
+"Ghaziabad, Chhattisgarh",2,262996.04,131498.02
+"Tumkur, Telangana",2,805719.44,402859.72
+"Ulhasnagar, Telangana",2,220557.38,110278.69
+"Uluberia, Karnataka",2,505434.11,252717.055
+"Amroha, Odisha",1,80466.17,80466.17
+"Amroha, Punjab",1,256274.58,256274.58
+"Amroha, Uttar Pradesh",1,635892.14,635892.14
+"Amroha, Uttarakhand",1,109490.88,109490.88
+"Anand, Jharkhand",1,86116.91,86116.91
+"Anand, Karnataka",1,243822.53,243822.53
+"Anand, Madhya Pradesh",1,143033.37,143033.37
+"Anand, Uttarakhand",1,127735.28,127735.28
+"Anantapur, Gujarat",1,143742.95,143742.95
+"Anantapur, Meghalaya",1,172591.93,172591.93
+"Anantapur, Sikkim",1,137150.24,137150.24
+"Anantapur, Uttar Pradesh",1,145982.74,145982.74
+"Anantapuram, Assam",1,46799.95,46799.95
+"Anantapuram, Nagaland",1,567928.57,567928.57
+"Anantapuram, Tripura",1,134272.96,134272.96
+"Anantapuram, Uttar Pradesh",1,36235.89,36235.89
+"Arrah, Bihar",1,558426.53,558426.53
+"Arrah, Himachal Pradesh",1,227474.71,227474.71
+"Arrah, Jharkhand",1,59419.91,59419.91
+"Arrah, Mizoram",1,132098.82,132098.82
+"Arrah, Punjab",1,240929.66,240929.66
+"Arrah, Telangana",1,275000.41,275000.41
+"Asansol, Himachal Pradesh",1,368031.66,368031.66
+"Asansol, Maharashtra",1,88055.96,88055.96
+"Aurangabad, Jharkhand",1,81752.05,81752.05
+"Aurangabad, Kerala",1,323808.41,323808.41
+"Aurangabad, Maharashtra",1,600170.4,600170.4
+"Aurangabad, Manipur",1,41887.08,41887.08
+"Aurangabad, Rajasthan",1,540053.6,540053.6
+"Aurangabad, Sikkim",1,662759.94,662759.94
+"Aurangabad, Telangana",1,451351.94,451351.94
+"Aurangabad, Uttar Pradesh",1,649275.83,649275.83
+"Aurangabad, Uttarakhand",1,30368.24,30368.24
+"Avadi, Assam",1,363038.31,363038.31
+"Avadi, Madhya Pradesh",1,74635.44,74635.44
+"Avadi, Punjab",1,53385.98,53385.98
+"Avadi, Sikkim",1,1001587.73,1001587.73
+"Avadi, Uttarakhand",1,98454.11,98454.11
+"Bahraich, Arunachal Pradesh",1,332397.5,332397.5
+"Bahraich, Goa",1,215914.97,215914.97
+"Bahraich, Jharkhand",1,369688.43,369688.43
+"Bahraich, Madhya Pradesh",1,224749.87,224749.87
+"Bahraich, Telangana",1,59493.97,59493.97
+"Ballia, Goa",1,393626.14,393626.14
+"Ballia, Karnataka",1,429676.69,429676.69
+"Bally, Sikkim",1,327722.42,327722.42
+"Bally, Tripura",1,25778.94,25778.94
+"Bangalore, Andhra Pradesh",1,84119.16,84119.16
+"Bangalore, Assam",1,41032.53,41032.53
+"Bangalore, Chhattisgarh",1,43309.74,43309.74
+"Bangalore, Mizoram",1,537381.57,537381.57
+"Bangalore, Punjab",1,51947.17,51947.17
+"Baranagar, Goa",1,76263.83,76263.83
+"Baranagar, Kerala",1,583197.27,583197.27
+"Baranagar, Mizoram",1,20963.28,20963.28
+"Baranagar, Tamil Nadu",1,62734.2,62734.2
+"Barasat, Assam",1,506218.71,506218.71
+"Barasat, Himachal Pradesh",1,474262.83,474262.83
+"Barasat, Karnataka",1,129102.64,129102.64
+"Barasat, Kerala",1,662998.53,662998.53
+"Barasat, Punjab",1,35744.51,35744.51
+"Bardhaman, Arunachal Pradesh",1,240718.22,240718.22
+"Bardhaman, Chhattisgarh",1,256767.78,256767.78
+"Bardhaman, Goa",1,717647.65,717647.65
+"Bardhaman, Gujarat",1,251686.61,251686.61
+"Bardhaman, Himachal Pradesh",1,238463.0,238463.0
+"Bardhaman, Rajasthan",1,415059.51,415059.51
+"Bareilly, Assam",1,56569.28,56569.28
+"Bareilly, Manipur",1,206768.97,206768.97
+"Bareilly, Rajasthan",1,84797.09,84797.09
+"Bareilly, Uttarakhand",1,111218.4,111218.4
+"Bathinda, Arunachal Pradesh",1,299488.03,299488.03
+"Bathinda, Kerala",1,185355.18,185355.18
+"Bathinda, Manipur",1,72475.99,72475.99
+"Begusarai, Arunachal Pradesh",1,359243.54,359243.54
+"Begusarai, Karnataka",1,260263.17,260263.17
+"Begusarai, Rajasthan",1,42054.31,42054.31
+"Belgaum, Chhattisgarh",1,128343.23,128343.23
+"Belgaum, Goa",1,1126042.45,1126042.45
+"Belgaum, Sikkim",1,102957.79,102957.79
+"Belgaum, Tamil Nadu",1,108805.6,108805.6
+"Bellary, Bihar",1,677024.61,677024.61
+"Bellary, Goa",1,158798.99,158798.99
+"Bellary, Karnataka",1,167994.26,167994.26
+"Bellary, Kerala",1,96571.54,96571.54
+"Bellary, Madhya Pradesh",1,143571.88,143571.88
+"Bellary, Telangana",1,216864.9,216864.9
+"Berhampore, Assam",1,42062.47,42062.47
+"Berhampore, Gujarat",1,175853.32,175853.32
+"Berhampore, Himachal Pradesh",1,290452.53,290452.53
+"Berhampore, Manipur",1,223606.67,223606.67
+"Berhampur, Andhra Pradesh",1,38145.72,38145.72
+"Berhampur, Kerala",1,48121.58,48121.58
+"Berhampur, Punjab",1,392833.48,392833.48
+"Berhampur, Tamil Nadu",1,204986.61,204986.61
+"Berhampur, West Bengal",1,69670.34,69670.34
+"Bettiah, Assam",1,166685.1,166685.1
+"Bettiah, Chhattisgarh",1,73229.35,73229.35
+"Bettiah, Haryana",1,541530.4,541530.4
+"Bettiah, Rajasthan",1,145754.08,145754.08
+"Bhagalpur, Chhattisgarh",1,152270.23,152270.23
+"Bhagalpur, Karnataka",1,724169.6,724169.6
+"Bhalswa Jahangir Pur, Arunachal Pradesh",1,339662.8,339662.8
+"Bhalswa Jahangir Pur, Kerala",1,141114.82,141114.82
+"Bhalswa Jahangir Pur, Punjab",1,200411.91,200411.91
+"Bharatpur, Andhra Pradesh",1,345135.73,345135.73
+"Bharatpur, Assam",1,163158.77,163158.77
+"Bharatpur, Bihar",1,111775.53,111775.53
+"Bharatpur, Goa",1,176769.97,176769.97
+"Bharatpur, Karnataka",1,91894.54,91894.54
+"Bharatpur, Sikkim",1,196286.94,196286.94
+"Bharatpur, Telangana",1,138124.61,138124.61
+"Bhatpara, Haryana",1,137111.2,137111.2
+"Bhatpara, Manipur",1,45560.47,45560.47
+"Bhatpara, Tamil Nadu",1,365598.42,365598.42
+"Bhavnagar, Haryana",1,407786.62,407786.62
+"Bhavnagar, Uttarakhand",1,274626.19,274626.19
+"Bhilai, Himachal Pradesh",1,308756.94,308756.94
+"Bhilai, Jharkhand",1,62376.04,62376.04
+"Bhilai, Mizoram",1,132285.23,132285.23
+"Bhilai, Punjab",1,169662.69,169662.69
+"Bhilai, Rajasthan",1,294674.07,294674.07
+"Bhilai, Tamil Nadu",1,85418.91,85418.91
+"Bhilwara, Arunachal Pradesh",1,299307.11,299307.11
+"Bhilwara, Chhattisgarh",1,113954.75,113954.75
+"Bhilwara, Goa",1,387303.02,387303.02
+"Bhilwara, Manipur",1,340905.17,340905.17
+"Bhilwara, Telangana",1,214726.29,214726.29
+"Bhimavaram, Goa",1,442637.0,442637.0
+"Bhimavaram, Jharkhand",1,262834.26,262834.26
+"Bhimavaram, Kerala",1,486202.59,486202.59
+"Bhimavaram, Manipur",1,23219.92,23219.92
+"Bhimavaram, Sikkim",1,172962.49,172962.49
+"Bhimavaram, Tamil Nadu",1,17502.68,17502.68
+"Bhind, Arunachal Pradesh",1,113173.87,113173.87
+"Bhind, Chhattisgarh",1,173639.5,173639.5
+"Bhind, Goa",1,116379.34,116379.34
+"Bhind, Punjab",1,78961.75,78961.75
+"Bhiwandi, Arunachal Pradesh",1,63497.82,63497.82
+"Bhiwandi, Kerala",1,114476.56,114476.56
+"Bhiwandi, Meghalaya",1,400588.83,400588.83
+"Bhiwandi, Nagaland",1,40165.88,40165.88
+"Bhiwandi, Tamil Nadu",1,322469.22,322469.22
+"Bhiwani, Himachal Pradesh",1,410229.94,410229.94
+"Bhopal, Karnataka",1,135743.84,135743.84
+"Bhopal, Punjab",1,921871.65,921871.65
+"Bhopal, Tripura",1,721312.2,721312.2
+"Bhopal, Uttar Pradesh",1,131613.19,131613.19
+"Bhubaneswar, Andhra Pradesh",1,1014861.3,1014861.3
+"Bhubaneswar, Arunachal Pradesh",1,313353.02,313353.02
+"Bhubaneswar, Bihar",1,516531.74,516531.74
+"Bhubaneswar, Chhattisgarh",1,395888.75,395888.75
+"Bhubaneswar, Madhya Pradesh",1,477404.39,477404.39
+"Bhubaneswar, Manipur",1,262625.1,262625.1
+"Bhubaneswar, Odisha",1,598435.26,598435.26
+"Bhusawal, Meghalaya",1,284380.23,284380.23
+"Bhusawal, Telangana",1,69800.93,69800.93
+"Bidhannagar, Andhra Pradesh",1,66236.1,66236.1
+"Bidhannagar, Goa",1,52844.81,52844.81
+"Bidhannagar, Punjab",1,910661.48,910661.48
+"Bidhannagar, Tripura",1,104977.14,104977.14
+"Bidhannagar, Uttarakhand",1,278654.99,278654.99
+"Bihar Sharif, Goa",1,42863.9,42863.9
+"Bihar Sharif, Jharkhand",1,318347.0,318347.0
+"Bihar Sharif, Odisha",1,384234.59,384234.59
+"Bihar Sharif, Tripura",1,282593.12,282593.12
+"Bihar Sharif, West Bengal",1,265754.44,265754.44
+"Bijapur, Manipur",1,100923.01,100923.01
+"Bijapur, Odisha",1,76246.79,76246.79
+"Bikaner, Goa",1,356361.26,356361.26
+"Bikaner, Jharkhand",1,52132.86,52132.86
+"Bikaner, Meghalaya",1,347800.47,347800.47
+"Bikaner, Tamil Nadu",1,456686.32,456686.32
+"Bikaner, Tripura",1,25862.02,25862.02
+"Bilaspur, Arunachal Pradesh",1,406119.98,406119.98
+"Bilaspur, Telangana",1,67551.05,67551.05
+"Bokaro, Andhra Pradesh",1,582768.33,582768.33
+"Bokaro, Haryana",1,88284.69,88284.69
+"Bokaro, Himachal Pradesh",1,459535.85,459535.85
+"Bokaro, Madhya Pradesh",1,419482.9,419482.9
+"Bokaro, Odisha",1,405061.51,405061.51
+"Bokaro, Uttar Pradesh",1,257876.54,257876.54
+"Bongaigaon, Karnataka",1,153595.21,153595.21
+"Bongaigaon, Kerala",1,593201.4,593201.4
+"Bulandshahr, Andhra Pradesh",1,26354.98,26354.98
+"Bulandshahr, Goa",1,300563.88,300563.88
+"Bulandshahr, Gujarat",1,78251.19,78251.19
+"Bulandshahr, Karnataka",1,308160.6,308160.6
+"Bulandshahr, Kerala",1,119277.68,119277.68
+"Burhanpur, Goa",1,527122.82,527122.82
+"Burhanpur, Kerala",1,411162.72,411162.72
+"Burhanpur, Maharashtra",1,207712.17,207712.17
+"Burhanpur, Sikkim",1,166967.92,166967.92
+"Buxar, Bihar",1,715141.14,715141.14
+"Buxar, Manipur",1,45792.67,45792.67
+"Buxar, Telangana",1,226810.84,226810.84
+"Buxar, Tripura",1,43214.96,43214.96
+"Buxar, Uttar Pradesh",1,151646.93,151646.93
+"Chandigarh, Jharkhand",1,427593.74,427593.74
+"Chandigarh, Kerala",1,96121.21,96121.21
+"Chandigarh, Maharashtra",1,641882.63,641882.63
+"Chandigarh, Mizoram",1,53226.06,53226.06
+"Chandigarh, Punjab",1,531109.45,531109.45
+"Chandrapur, Haryana",1,417462.96,417462.96
+"Chandrapur, Manipur",1,287931.73,287931.73
+"Chandrapur, Punjab",1,154013.93,154013.93
+"Chapra, Chhattisgarh",1,103812.16,103812.16
+"Chapra, Gujarat",1,113886.06,113886.06
+"Chapra, Haryana",1,278570.34,278570.34
+"Chapra, Karnataka",1,303682.39,303682.39
+"Chapra, Kerala",1,424475.69,424475.69
+"Chapra, Punjab",1,57629.05,57629.05
+"Chapra, Uttarakhand",1,54730.71,54730.71
+"Chennai, Madhya Pradesh",1,185076.29,185076.29
+"Chennai, Maharashtra",1,193670.23,193670.23
+"Chennai, Nagaland",1,477552.98,477552.98
+"Chinsurah, Chhattisgarh",1,83790.38,83790.38
+"Chinsurah, Uttar Pradesh",1,132655.82,132655.82
+"Chittoor, Bihar",1,174067.93,174067.93
+"Chittoor, Chhattisgarh",1,303717.67,303717.67
+"Chittoor, Haryana",1,96594.11,96594.11
+"Chittoor, Himachal Pradesh",1,1157633.1,1157633.1
+"Chittoor, Maharashtra",1,189166.17,189166.17
+"Chittoor, Meghalaya",1,283009.93,283009.93
+"Chittoor, Odisha",1,88334.9,88334.9
+"Coimbatore, Madhya Pradesh",1,87390.26,87390.26
+"Coimbatore, Manipur",1,56280.53,56280.53
+"Coimbatore, Uttar Pradesh",1,413157.81,413157.81
+"Coimbatore, West Bengal",1,59893.11,59893.11
+"Cuttack, Odisha",1,385634.95,385634.95
+"Danapur, Gujarat",1,291444.2,291444.2
+"Danapur, Meghalaya",1,168385.12,168385.12
+"Danapur, Punjab",1,212009.48,212009.48
+"Danapur, Uttar Pradesh",1,408574.95,408574.95
+"Darbhanga, Bihar",1,211187.81,211187.81
+"Darbhanga, Manipur",1,252890.13,252890.13
+"Darbhanga, Punjab",1,282320.42,282320.42
+"Davanagere, Andhra Pradesh",1,386573.05,386573.05
+"Davanagere, Haryana",1,763362.65,763362.65
+"Davanagere, Himachal Pradesh",1,27096.81,27096.81
+"Davanagere, Mizoram",1,41486.35,41486.35
+"Davanagere, Punjab",1,61590.84,61590.84
+"Davanagere, Sikkim",1,116839.35,116839.35
+"Davanagere, Tamil Nadu",1,85983.76,85983.76
+"Davanagere, Uttar Pradesh",1,104116.52,104116.52
+"Dehradun, Jharkhand",1,109295.64,109295.64
+"Dehradun, Karnataka",1,93566.39,93566.39
+"Dehradun, Sikkim",1,50056.34,50056.34
+"Dehri, Assam",1,43018.62,43018.62
+"Dehri, Rajasthan",1,47935.2,47935.2
+"Dehri, Telangana",1,44991.7,44991.7
+"Delhi, Andhra Pradesh",1,72882.34,72882.34
+"Delhi, Madhya Pradesh",1,56791.61,56791.61
+"Delhi, Mizoram",1,696671.04,696671.04
+"Delhi, West Bengal",1,435368.96,435368.96
+"Deoghar, Maharashtra",1,108990.33,108990.33
+"Deoghar, Tripura",1,704052.28,704052.28
+"Dewas, Kerala",1,224641.74,224641.74
+"Dewas, Nagaland",1,77515.26,77515.26
+"Dewas, Rajasthan",1,122287.81,122287.81
+"Dewas, Tripura",1,424123.24,424123.24
+"Dhanbad, Assam",1,128532.87,128532.87
+"Dhanbad, Madhya Pradesh",1,62330.69,62330.69
+"Dhanbad, Maharashtra",1,98100.59,98100.59
+"Dhanbad, Manipur",1,901186.51,901186.51
+"Dhanbad, Uttar Pradesh",1,178314.15,178314.15
+"Dharmavaram, Karnataka",1,70486.93,70486.93
+"Dharmavaram, Uttar Pradesh",1,1065555.75,1065555.75
+"Dhule, Jharkhand",1,395060.74,395060.74
+"Dhule, Tripura",1,373271.04,373271.04
+"Dibrugarh, Arunachal Pradesh",1,1328892.03,1328892.03
+"Dibrugarh, Meghalaya",1,185424.05,185424.05
+"Dibrugarh, Tripura",1,244855.66,244855.66
+"Dindigul, Karnataka",1,695834.21,695834.21
+"Dindigul, West Bengal",1,174164.17,174164.17
+"Durg, Goa",1,73583.06,73583.06
+"Durg, Gujarat",1,140625.73,140625.73
+"Durg, Jharkhand",1,35249.64,35249.64
+"Durg, Karnataka",1,415036.68,415036.68
+"Durg, Rajasthan",1,408476.01,408476.01
+"Durg, Tamil Nadu",1,256244.86,256244.86
+"Durg, Tripura",1,823986.5,823986.5
+"Durgapur, Andhra Pradesh",1,565140.09,565140.09
+"Durgapur, Maharashtra",1,432383.5,432383.5
+"Eluru, Assam",1,60577.23,60577.23
+"Eluru, Goa",1,445286.89,445286.89
+"Eluru, Manipur",1,149670.72,149670.72
+"Eluru, Tamil Nadu",1,224084.73,224084.73
+"Erode, Andhra Pradesh",1,66967.26,66967.26
+"Erode, Assam",1,185263.34,185263.34
+"Erode, Odisha",1,475353.39,475353.39
+"Erode, Tripura",1,113997.98,113997.98
+"Etawah, Himachal Pradesh",1,673458.29,673458.29
+"Etawah, Karnataka",1,46708.35,46708.35
+"Etawah, Sikkim",1,396369.27,396369.27
+"Etawah, West Bengal",1,899869.89,899869.89
+"Faridabad, Andhra Pradesh",1,131133.74,131133.74
+"Faridabad, Assam",1,629290.49,629290.49
+"Faridabad, Chhattisgarh",1,125882.29,125882.29
+"Faridabad, Maharashtra",1,94144.18,94144.18
+"Faridabad, Manipur",1,172332.55,172332.55
+"Farrukhabad, Jharkhand",1,189244.79,189244.79
+"Fatehpur, Nagaland",1,65916.01,65916.01
+"Fatehpur, Punjab",1,892848.84,892848.84
+"Fatehpur, Sikkim",1,352040.64,352040.64
+"Firozabad, Jharkhand",1,540349.92,540349.92
+"Firozabad, Karnataka",1,66677.31,66677.31
+"Firozabad, Uttarakhand",1,132660.22,132660.22
+"Gandhidham, Andhra Pradesh",1,364781.05,364781.05
+"Gandhidham, Sikkim",1,479766.24,479766.24
+"Gandhidham, Telangana",1,133902.97,133902.97
+"Gandhinagar, Assam",1,282624.65,282624.65
+"Gandhinagar, Gujarat",1,1637019.3,1637019.3
+"Gandhinagar, Manipur",1,499026.4,499026.4
+"Gandhinagar, Odisha",1,46447.56,46447.56
+"Gandhinagar, Tamil Nadu",1,88346.43,88346.43
+"Gandhinagar, Uttarakhand",1,55067.03,55067.03
+"Gangtok, Arunachal Pradesh",1,646218.28,646218.28
+"Gangtok, Gujarat",1,90747.79,90747.79
+"Gangtok, Jharkhand",1,1040130.92,1040130.92
+"Gaya, Bihar",1,100277.91,100277.91
+"Gaya, Chhattisgarh",1,150135.26,150135.26
+"Gaya, Haryana",1,235110.18,235110.18
+"Ghaziabad, Assam",1,78239.24,78239.24
+"Ghaziabad, Goa",1,227199.09,227199.09
+"Ghaziabad, Jharkhand",1,58433.44,58433.44
+"Ghaziabad, Rajasthan",1,49575.35,49575.35
+"Ghaziabad, Uttarakhand",1,62965.07,62965.07
+"Ghaziabad, West Bengal",1,147165.67,147165.67
+"Giridih, Assam",1,228313.61,228313.61
+"Giridih, Mizoram",1,502252.96,502252.96
+"Giridih, Nagaland",1,738197.24,738197.24
+"Giridih, Rajasthan",1,220064.66,220064.66
+"Giridih, Sikkim",1,822967.51,822967.51
+"Gopalpur, Andhra Pradesh",1,353405.28,353405.28
+"Gopalpur, Arunachal Pradesh",1,31032.32,31032.32
+"Gopalpur, Goa",1,393258.04,393258.04
+"Gopalpur, Gujarat",1,59149.95,59149.95
+"Gopalpur, Mizoram",1,95791.49,95791.49
+"Gopalpur, Odisha",1,60795.02,60795.02
+"Gopalpur, Sikkim",1,40097.49,40097.49
+"Gorakhpur, Bihar",1,125739.2,125739.2
+"Gorakhpur, Haryana",1,259585.21,259585.21
+"Gorakhpur, Nagaland",1,38674.22,38674.22
+"Gudivada, Punjab",1,142974.57,142974.57
+"Gudivada, Uttar Pradesh",1,580688.67,580688.67
+"Gulbarga, Andhra Pradesh",1,58832.57,58832.57
+"Gulbarga, Chhattisgarh",1,602836.87,602836.87
+"Gulbarga, Himachal Pradesh",1,334044.83,334044.83
+"Gulbarga, Odisha",1,360063.86,360063.86
+"Gulbarga, Rajasthan",1,491066.52,491066.52
+"Gulbarga, Uttar Pradesh",1,700755.17,700755.17
+"Guna, Chhattisgarh",1,93934.3,93934.3
+"Guna, Gujarat",1,564026.43,564026.43
+"Guna, Jharkhand",1,344499.63,344499.63
+"Guna, Mizoram",1,78139.01,78139.01
+"Guna, Telangana",1,182391.88,182391.88
+"Guna, Uttar Pradesh",1,377737.01,377737.01
+"Guna, West Bengal",1,193878.22,193878.22
+"Guntakal, West Bengal",1,598294.16,598294.16
+"Guntur, Chhattisgarh",1,155058.0,155058.0
+"Guntur, Goa",1,165112.74,165112.74
+"Guntur, Telangana",1,64683.53,64683.53
+"Gurgaon, Assam",1,89954.51,89954.51
+"Gurgaon, Bihar",1,545320.08,545320.08
+"Gurgaon, Goa",1,478069.67,478069.67
+"Gurgaon, Karnataka",1,146872.02,146872.02
+"Gurgaon, Odisha",1,655399.3,655399.3
+"Gurgaon, Rajasthan",1,142621.33,142621.33
+"Guwahati, Arunachal Pradesh",1,229502.38,229502.38
+"Guwahati, Gujarat",1,80756.68,80756.68
+"Guwahati, West Bengal",1,59975.22,59975.22
+"Gwalior, Himachal Pradesh",1,591096.73,591096.73
+"Gwalior, Telangana",1,28171.99,28171.99
+"Hajipur, Chhattisgarh",1,251372.74,251372.74
+"Hajipur, Jharkhand",1,109469.92,109469.92
+"Haldia, Jharkhand",1,69891.17,69891.17
+"Haldia, Karnataka",1,38088.21,38088.21
+"Haldia, Punjab",1,70463.26,70463.26
+"Haldia, Rajasthan",1,205578.2,205578.2
+"Haldia, Telangana",1,346335.27,346335.27
+"Haldia, Uttarakhand",1,127046.32,127046.32
+"Hapur, Andhra Pradesh",1,56487.2,56487.2
+"Hapur, Bihar",1,34253.68,34253.68
+"Hapur, Himachal Pradesh",1,392983.66,392983.66
+"Hapur, Jharkhand",1,354546.91,354546.91
+"Hapur, Madhya Pradesh",1,144408.24,144408.24
+"Hapur, Rajasthan",1,133936.4,133936.4
+"Haridwar, Mizoram",1,138955.01,138955.01
+"Haridwar, Tripura",1,121922.36,121922.36
+"Hazaribagh, Haryana",1,618617.88,618617.88
+"Hindupur, Arunachal Pradesh",1,546160.45,546160.45
+"Hindupur, Punjab",1,275457.32,275457.32
+"Hindupur, Uttarakhand",1,220508.97,220508.97
+"Hospet, Himachal Pradesh",1,749485.14,749485.14
+"Hospet, West Bengal",1,365682.21,365682.21
+"Hosur, Assam",1,874847.59,874847.59
+"Hosur, Bihar",1,79719.43,79719.43
+"Hosur, Chhattisgarh",1,138284.23,138284.23
+"Hosur, Kerala",1,237149.68,237149.68
+"Hosur, Madhya Pradesh",1,339574.97,339574.97
+"Hosur, Maharashtra",1,460651.65,460651.65
+"Hosur, Rajasthan",1,480960.17,480960.17
+"Hosur, Uttar Pradesh",1,330719.74,330719.74
+"Howrah, Manipur",1,63882.02,63882.02
+"Hubli–Dharwad, Manipur",1,79768.82,79768.82
+"Hubli–Dharwad, Sikkim",1,64814.77,64814.77
+"Hubli–Dharwad, Tripura",1,601490.42,601490.42
+"Hyderabad, Andhra Pradesh",1,568618.69,568618.69
+"Hyderabad, Himachal Pradesh",1,152244.84,152244.84
+"Hyderabad, Kerala",1,48346.37,48346.37
+"Hyderabad, Odisha",1,211851.34,211851.34
+"Hyderabad, Tripura",1,150027.77,150027.77
+"Ichalkaranji, Andhra Pradesh",1,544211.57,544211.57
+"Ichalkaranji, Haryana",1,277028.22,277028.22
+"Ichalkaranji, Rajasthan",1,28821.81,28821.81
+"Imphal, Maharashtra",1,76851.81,76851.81
+"Imphal, Sikkim",1,196418.85,196418.85
+"Indore, Maharashtra",1,57402.47,57402.47
+"Indore, Telangana",1,38936.33,38936.33
+"Jabalpur, Andhra Pradesh",1,659766.29,659766.29
+"Jabalpur, Chhattisgarh",1,414234.98,414234.98
+"Jabalpur, Gujarat",1,141983.69,141983.69
+"Jabalpur, Kerala",1,67996.93,67996.93
+"Jabalpur, Nagaland",1,535159.88,535159.88
+"Jabalpur, Odisha",1,487738.42,487738.42
+"Jabalpur, Rajasthan",1,136558.98,136558.98
+"Jaipur, Arunachal Pradesh",1,82632.78,82632.78
+"Jaipur, Bihar",1,118081.84,118081.84
+"Jaipur, Goa",1,380153.02,380153.02
+"Jaipur, Karnataka",1,137223.25,137223.25
+"Jaipur, Kerala",1,337767.38,337767.38
+"Jaipur, Manipur",1,613848.57,613848.57
+"Jaipur, Punjab",1,83179.6,83179.6
+"Jaipur, Telangana",1,288379.6,288379.6
+"Jaipur, Uttarakhand",1,64307.24,64307.24
+"Jalandhar, Arunachal Pradesh",1,501189.06,501189.06
+"Jalandhar, Haryana",1,654548.34,654548.34
+"Jalandhar, Jharkhand",1,1381169.88,1381169.88
+"Jalandhar, Kerala",1,100072.78,100072.78
+"Jalandhar, Manipur",1,104361.8,104361.8
+"Jalandhar, Tamil Nadu",1,105849.32,105849.32
+"Jalgaon, Goa",1,580352.37,580352.37
+"Jalgaon, Himachal Pradesh",1,61370.46,61370.46
+"Jalgaon, Kerala",1,175847.7,175847.7
+"Jalgaon, Maharashtra",1,78818.43,78818.43
+"Jalgaon, Uttarakhand",1,576919.01,576919.01
+"Jalna, Assam",1,119705.18,119705.18
+"Jalna, Karnataka",1,83183.47,83183.47
+"Jamalpur, Andhra Pradesh",1,174866.96,174866.96
+"Jamalpur, Chhattisgarh",1,128212.44,128212.44
+"Jamalpur, Meghalaya",1,60014.84,60014.84
+"Jamalpur, Punjab",1,218272.22,218272.22
+"Jamalpur, Uttarakhand",1,44984.58,44984.58
+"Jammu, Assam",1,296023.28,296023.28
+"Jammu, Bihar",1,169853.34,169853.34
+"Jammu, Nagaland",1,615923.8,615923.8
+"Jamnagar, Arunachal Pradesh",1,246411.54,246411.54
+"Jamnagar, Meghalaya",1,296635.06,296635.06
+"Jamshedpur, Arunachal Pradesh",1,102245.17,102245.17
+"Jamshedpur, Maharashtra",1,587791.46,587791.46
+"Jamshedpur, Meghalaya",1,393378.25,393378.25
+"Jamshedpur, Nagaland",1,411940.29,411940.29
+"Jamshedpur, Sikkim",1,130600.59,130600.59
+"Jaunpur, Karnataka",1,281070.87,281070.87
+"Jaunpur, Maharashtra",1,114027.35,114027.35
+"Jaunpur, Nagaland",1,483605.24,483605.24
+"Jehanabad, Nagaland",1,51058.97,51058.97
+"Jhansi, Gujarat",1,102826.8,102826.8
+"Jhansi, Jharkhand",1,242200.64,242200.64
+"Jhansi, Madhya Pradesh",1,716945.53,716945.53
+"Jhansi, Punjab",1,274688.24,274688.24
+"Jhansi, Rajasthan",1,69692.51,69692.51
+"Jhansi, Uttar Pradesh",1,663850.87,663850.87
+"Jodhpur, Nagaland",1,48006.99,48006.99
+"Jodhpur, Odisha",1,1177893.39,1177893.39
+"Jodhpur, Sikkim",1,330045.59,330045.59
+"Jorhat, Tamil Nadu",1,69880.26,69880.26
+"Jorhat, Uttar Pradesh",1,211242.49,211242.49
+"Junagadh, Assam",1,143546.64,143546.64
+"Junagadh, Goa",1,471669.08,471669.08
+"Junagadh, Punjab",1,277608.37,277608.37
+"Junagadh, Sikkim",1,51765.05,51765.05
+"Junagadh, Tamil Nadu",1,343474.72,343474.72
+"Junagadh, Telangana",1,91990.92,91990.92
+"Kadapa, Assam",1,547129.29,547129.29
+"Kadapa, Punjab",1,474962.28,474962.28
+"Kadapa, Rajasthan",1,289773.04,289773.04
+"Kadapa, West Bengal",1,166365.27,166365.27
+"Kakinada, Gujarat",1,255552.51,255552.51
+"Kakinada, Himachal Pradesh",1,570914.89,570914.89
+"Kakinada, Jharkhand",1,356023.85,356023.85
+"Kakinada, Tripura",1,823749.48,823749.48
+"Kakinada, Uttarakhand",1,165332.51,165332.51
+"Kalyan-Dombivli, Rajasthan",1,227303.09,227303.09
+"Kamarhati, Nagaland",1,173568.35,173568.35
+"Kamarhati, Uttar Pradesh",1,72616.93,72616.93
+"Kanpur, Andhra Pradesh",1,347428.81,347428.81
+"Kanpur, Assam",1,214077.22,214077.22
+"Kanpur, Bihar",1,301874.66,301874.66
+"Kanpur, Goa",1,634222.43,634222.43
+"Kanpur, Odisha",1,229436.31,229436.31
+"Karaikudi, Arunachal Pradesh",1,976254.71,976254.71
+"Karaikudi, Sikkim",1,455269.37,455269.37
+"Karaikudi, West Bengal",1,27783.69,27783.69
+"Karawal Nagar, Bihar",1,121183.37,121183.37
+"Karawal Nagar, Madhya Pradesh",1,182709.86,182709.86
+"Karawal Nagar, Manipur",1,430631.64,430631.64
+"Karawal Nagar, Odisha",1,152239.53,152239.53
+"Karawal Nagar, Rajasthan",1,362336.5,362336.5
+"Karawal Nagar, Telangana",1,213730.52,213730.52
+"Karawal Nagar, Tripura",1,144885.63,144885.63
+"Karawal Nagar, Uttar Pradesh",1,41314.15,41314.15
+"Karawal Nagar, West Bengal",1,48283.83,48283.83
+"Karimnagar, Assam",1,329287.07,329287.07
+"Karimnagar, Chhattisgarh",1,660607.29,660607.29
+"Karimnagar, Maharashtra",1,52573.55,52573.55
+"Karimnagar, Meghalaya",1,802434.25,802434.25
+"Karimnagar, Telangana",1,360076.52,360076.52
+"Karimnagar, Uttar Pradesh",1,1124342.38,1124342.38
+"Karnal, Arunachal Pradesh",1,157572.64,157572.64
+"Karnal, Gujarat",1,349733.98,349733.98
+"Karnal, Madhya Pradesh",1,773694.09,773694.09
+"Karnal, Tamil Nadu",1,459417.04,459417.04
+"Karnal, Uttar Pradesh",1,387700.84,387700.84
+"Karnal, Uttarakhand",1,326634.94,326634.94
+"Katihar, Mizoram",1,57311.2,57311.2
+"Katni, Andhra Pradesh",1,935554.03,935554.03
+"Katni, Chhattisgarh",1,558260.25,558260.25
+"Katni, Odisha",1,265412.07,265412.07
+"Katni, Rajasthan",1,67136.51,67136.51
+"Katni, West Bengal",1,88659.71,88659.71
+"Kavali, Arunachal Pradesh",1,608846.24,608846.24
+"Kavali, Gujarat",1,622135.16,622135.16
+"Kavali, Maharashtra",1,67341.66,67341.66
+"Kavali, Rajasthan",1,166341.81,166341.81
+"Kavali, Tripura",1,296142.97,296142.97
+"Kavali, Uttar Pradesh",1,550276.1,550276.1
+"Khammam, Arunachal Pradesh",1,699809.47,699809.47
+"Khammam, Uttar Pradesh",1,451956.73,451956.73
+"Khammam, West Bengal",1,456566.95,456566.95
+"Khandwa, Arunachal Pradesh",1,114022.1,114022.1
+"Khandwa, Assam",1,660554.62,660554.62
+"Khandwa, Haryana",1,53845.0,53845.0
+"Khandwa, Nagaland",1,62606.64,62606.64
+"Khandwa, Odisha",1,1148464.02,1148464.02
+"Khandwa, Tripura",1,838875.8,838875.8
+"Khandwa, West Bengal",1,137866.39,137866.39
+"Kharagpur, Chhattisgarh",1,282853.97,282853.97
+"Kharagpur, Haryana",1,921321.41,921321.41
+"Kharagpur, Maharashtra",1,56133.44,56133.44
+"Kharagpur, Meghalaya",1,107471.08,107471.08
+"Kharagpur, Uttar Pradesh",1,621075.03,621075.03
+"Khora , Chhattisgarh",1,52018.73,52018.73
+"Khora , Madhya Pradesh",1,82317.86,82317.86
+"Khora , Tamil Nadu",1,116423.81,116423.81
+"Kirari Suleman Nagar, Himachal Pradesh",1,1660847.13,1660847.13
+"Kirari Suleman Nagar, Tripura",1,42840.09,42840.09
+"Kirari Suleman Nagar, Uttarakhand",1,103599.51,103599.51
+"Kishanganj, Chhattisgarh",1,89535.94,89535.94
+"Kishanganj, Manipur",1,65428.64,65428.64
+"Kishanganj, Sikkim",1,40178.02,40178.02
+"Kishanganj, Uttar Pradesh",1,176040.52,176040.52
+"Kochi, Madhya Pradesh",1,228375.71,228375.71
+"Kochi, Mizoram",1,1087855.48,1087855.48
+"Kochi, Nagaland",1,94773.25,94773.25
+"Kochi, Tripura",1,64600.52,64600.52
+"Kochi, Uttarakhand",1,29470.64,29470.64
+"Kolhapur, Andhra Pradesh",1,47705.28,47705.28
+"Kolhapur, Karnataka",1,115861.96,115861.96
+"Kolhapur, Kerala",1,236358.67,236358.67
+"Kolhapur, Odisha",1,113414.17,113414.17
+"Kolhapur, Punjab",1,155829.02,155829.02
+"Kolhapur, Tamil Nadu",1,95991.72,95991.72
+"Kolhapur, Uttarakhand",1,688003.77,688003.77
+"Kolkata, Andhra Pradesh",1,712020.66,712020.66
+"Kolkata, Bihar",1,149834.12,149834.12
+"Kolkata, Goa",1,32886.12,32886.12
+"Kolkata, Madhya Pradesh",1,254395.18,254395.18
+"Kolkata, Nagaland",1,120603.67,120603.67
+"Kolkata, Odisha",1,99486.06,99486.06
+"Kolkata, Sikkim",1,150800.33,150800.33
+"Kollam, Arunachal Pradesh",1,101107.37,101107.37
+"Kollam, Chhattisgarh",1,140026.93,140026.93
+"Kollam, Jharkhand",1,42683.63,42683.63
+"Kollam, Telangana",1,194138.28,194138.28
+"Korba, Andhra Pradesh",1,26163.32,26163.32
+"Korba, Assam",1,864921.32,864921.32
+"Korba, Tamil Nadu",1,618150.71,618150.71
+"Kota, Andhra Pradesh",1,45887.48,45887.48
+"Kota, Arunachal Pradesh",1,44107.61,44107.61
+"Kota, Goa",1,165378.77,165378.77
+"Kota, Himachal Pradesh",1,46529.73,46529.73
+"Kota, Kerala",1,91009.65,91009.65
+"Kota, Madhya Pradesh",1,717023.39,717023.39
+"Kota, Mizoram",1,254560.56,254560.56
+"Kota, Telangana",1,226218.75,226218.75
+"Kota, Tripura",1,228572.7,228572.7
+"Kota, Uttarakhand",1,487910.77,487910.77
+"Kottayam, Assam",1,96481.21,96481.21
+"Kottayam, Haryana",1,124386.07,124386.07
+"Kottayam, Meghalaya",1,134388.12,134388.12
+"Kozhikode, Bihar",1,19759.56,19759.56
+"Kozhikode, Goa",1,197369.21,197369.21
+"Vellore, Rajasthan",1,88664.79,88664.79
+"Kozhikode, Meghalaya",1,348279.09,348279.09
+"Kozhikode, Mizoram",1,516691.07,516691.07
+"Kozhikode, Telangana",1,234143.28,234143.28
+"Kulti, Haryana",1,187423.24,187423.24
+"Kulti, Himachal Pradesh",1,166712.59,166712.59
+"Kulti, Jharkhand",1,773003.16,773003.16
+"Kulti, Madhya Pradesh",1,1161704.93,1161704.93
+"Kumbakonam, Gujarat",1,152476.2,152476.2
+"Yamunanagar, Uttarakhand",1,320569.43,320569.43
+"Kurnool, Assam",1,77776.0,77776.0
+"Visakhapatnam, Tamil Nadu",1,682044.71,682044.71
+"Kurnool, Manipur",1,67984.51,67984.51
+"Kurnool, Meghalaya",1,442097.75,442097.75
+"Kurnool, Tamil Nadu",1,397197.66,397197.66
+"Kurnool, Uttar Pradesh",1,203190.33,203190.33
+"Latur, Goa",1,219997.6,219997.6
+"Latur, Gujarat",1,278059.01,278059.01
+"Visakhapatnam, Telangana",1,55610.26,55610.26
+"Latur, Mizoram",1,678241.48,678241.48
+"Latur, West Bengal",1,495464.06,495464.06
+"Loni, Andhra Pradesh",1,384845.65,384845.65
+"Loni, Assam",1,170095.26,170095.26
+"Loni, Goa",1,47290.15,47290.15
+"Loni, Madhya Pradesh",1,50183.43,50183.43
+"Loni, Rajasthan",1,192447.66,192447.66
+"Lucknow, Bihar",1,118981.77,118981.77
+"Visakhapatnam, West Bengal",1,631825.24,631825.24
+"Lucknow, Madhya Pradesh",1,352232.11,352232.11
+"Warangal, Goa",1,114152.08,114152.08
+"Lucknow, Meghalaya",1,152162.89,152162.89
+"Warangal, Himachal Pradesh",1,84477.9,84477.9
+"Lucknow, Odisha",1,38125.52,38125.52
+"Lucknow, Sikkim",1,144592.24,144592.24
+"Lucknow, Telangana",1,328771.19,328771.19
+"Lucknow, Tripura",1,95744.25,95744.25
+"Lucknow, Uttar Pradesh",1,41491.08,41491.08
+"Ludhiana, Bihar",1,87391.0,87391.0
+"Ludhiana, Jharkhand",1,50415.18,50415.18
+"Ludhiana, Odisha",1,71527.64,71527.64
+"Ludhiana, Punjab",1,177544.65,177544.65
+"Ludhiana, Uttar Pradesh",1,214397.99,214397.99
+"Ludhiana, Uttarakhand",1,415202.61,415202.61
+"Machilipatnam, Chhattisgarh",1,611385.72,611385.72
+"Machilipatnam, Kerala",1,482331.43,482331.43
+"Machilipatnam, Madhya Pradesh",1,80274.2,80274.2
+"Machilipatnam, Meghalaya",1,44913.18,44913.18
+"Machilipatnam, Rajasthan",1,106853.78,106853.78
+"Madanapalle, Andhra Pradesh",1,523982.68,523982.68
+"Madanapalle, Jharkhand",1,126545.25,126545.25
+"Madanapalle, Maharashtra",1,189389.91,189389.91
+"Madanapalle, Uttarakhand",1,389091.75,389091.75
+"Madhyamgram, Arunachal Pradesh",1,71841.18,71841.18
+"Madhyamgram, Goa",1,224020.17,224020.17
+"Madhyamgram, Jharkhand",1,59550.88,59550.88
+"Madhyamgram, Maharashtra",1,321922.37,321922.37
+"Madhyamgram, Mizoram",1,64270.89,64270.89
+"Madhyamgram, Punjab",1,634935.52,634935.52
+"Madurai, Andhra Pradesh",1,249320.84,249320.84
+"Madurai, Madhya Pradesh",1,41066.34,41066.34
+"Madurai, Manipur",1,87074.46,87074.46
+"Madurai, Nagaland",1,52743.41,52743.41
+"Madurai, Rajasthan",1,93188.57,93188.57
+"Madurai, Sikkim",1,127408.58,127408.58
+"Madurai, Telangana",1,157102.12,157102.12
+"Madurai, Tripura",1,279717.43,279717.43
+"Madurai, West Bengal",1,45269.09,45269.09
+"Mahbubnagar, Andhra Pradesh",1,139285.9,139285.9
+"Mahbubnagar, Assam",1,109373.16,109373.16
+"Mahbubnagar, Bihar",1,145906.54,145906.54
+"Mahbubnagar, Chhattisgarh",1,213077.22,213077.22
+"Mahbubnagar, Jharkhand",1,162119.33,162119.33
+"Mahbubnagar, Karnataka",1,64264.83,64264.83
+"Mahbubnagar, Meghalaya",1,76525.5,76525.5
+"Mahbubnagar, Nagaland",1,538305.59,538305.59
+"Mahbubnagar, Odisha",1,66419.43,66419.43
+"Mahbubnagar, Rajasthan",1,89489.56,89489.56
+"Mahbubnagar, West Bengal",1,867224.15,867224.15
+"Maheshtala, Maharashtra",1,241447.77,241447.77
+"Malda, Haryana",1,302991.27,302991.27
+"Malda, Karnataka",1,487403.74,487403.74
+"Malda, Kerala",1,41956.09,41956.09
+"Malda, Maharashtra",1,196813.01,196813.01
+"Malda, Meghalaya",1,78628.32,78628.32
+"Malda, Odisha",1,397040.65,397040.65
+"Malda, Punjab",1,349910.59,349910.59
+"Malda, Rajasthan",1,1054485.67,1054485.67
+"Warangal, Maharashtra",1,79660.09,79660.09
+"Malegaon, Bihar",1,322943.98,322943.98
+"Malegaon, Haryana",1,428650.94,428650.94
+"Malegaon, Tripura",1,458117.39,458117.39
+"Malegaon, West Bengal",1,84662.18,84662.18
+"Mangalore, Andhra Pradesh",1,611881.94,611881.94
+"Mangalore, Bihar",1,220441.52,220441.52
+"Mangalore, Meghalaya",1,126234.27,126234.27
+"Mangalore, Mizoram",1,166121.72,166121.72
+"Mangalore, Tamil Nadu",1,54902.44,54902.44
+"Mangalore, Tripura",1,79833.45,79833.45
+"Mango, Andhra Pradesh",1,71555.29,71555.29
+"Mango, Kerala",1,958449.23,958449.23
+"Warangal, Odisha",1,156136.58,156136.58
+"Warangal, Uttar Pradesh",1,1276150.42,1276150.42
+"Mango, West Bengal",1,51687.58,51687.58
+"Mathura, Jharkhand",1,131638.08,131638.08
+"Mathura, Odisha",1,122379.44,122379.44
+"Mathura, Tripura",1,436863.24,436863.24
+"Mathura, Uttarakhand",1,91920.85,91920.85
+"Mathura, West Bengal",1,130291.86,130291.86
+"Mau, Nagaland",1,91228.88,91228.88
+"Mau, Odisha",1,116129.98,116129.98
+"Mau, Rajasthan",1,215156.12,215156.12
+"Mau, Sikkim",1,60363.44,60363.44
+"Mau, Uttarakhand",1,83774.98,83774.98
+"Yamunanagar, Madhya Pradesh",1,636897.91,636897.91
+"Medininagar, Chhattisgarh",1,1417077.75,1417077.75
+"Medininagar, Gujarat",1,408206.2,408206.2
+"Medininagar, Meghalaya",1,246938.52,246938.52
+"Yamunanagar, Manipur",1,82034.37,82034.37
+"Medininagar, Sikkim",1,60116.36,60116.36
+"Medininagar, Tamil Nadu",1,62135.93,62135.93
+"Meerut, Arunachal Pradesh",1,365612.8,365612.8
+"Meerut, Goa",1,424061.67,424061.67
+"Meerut, Odisha",1,337322.87,337322.87
+"Meerut, Telangana",1,1009823.49,1009823.49
+"Meerut, Tripura",1,74452.2,74452.2
+"Mehsana, Goa",1,83423.31,83423.31
+"Mehsana, Kerala",1,369681.36,369681.36
+"Mehsana, Manipur",1,128924.23,128924.23
+"Yamunanagar, Rajasthan",1,643394.19,643394.19
+"Mira-Bhayandar, Andhra Pradesh",1,25045.59,25045.59
+"Mira-Bhayandar, Chhattisgarh",1,71163.67,71163.67
+"Mira-Bhayandar, Manipur",1,44183.03,44183.03
+"Yamunanagar, Tripura",1,376147.09,376147.09
+"Mira-Bhayandar, Sikkim",1,1210766.36,1210766.36
+"Mira-Bhayandar, Telangana",1,121004.87,121004.87
+"Mira-Bhayandar, West Bengal",1,103904.48,103904.48
+"Yamunanagar, Uttar Pradesh",1,282188.0,282188.0
+"Miryalaguda, Goa",1,371961.16,371961.16
+"Visakhapatnam, Punjab",1,232714.29,232714.29
+"Miryalaguda, Meghalaya",1,78621.47,78621.47
+"Miryalaguda, Nagaland",1,333424.46,333424.46
+"Miryalaguda, Odisha",1,80258.75,80258.75
+"Miryalaguda, Tamil Nadu",1,502228.51,502228.51
+"Miryalaguda, Telangana",1,595265.03,595265.03
+"Miryalaguda, Tripura",1,411049.57,411049.57
+"Miryalaguda, Uttar Pradesh",1,423151.6,423151.6
+"Mirzapur, Assam",1,590054.58,590054.58
+"Mirzapur, Gujarat",1,132455.48,132455.48
+"Mirzapur, Meghalaya",1,33725.78,33725.78
+"Mirzapur, Nagaland",1,240508.41,240508.41
+"Moradabad, Kerala",1,238252.19,238252.19
+"Moradabad, Tripura",1,622557.08,622557.08
+"Moradabad, West Bengal",1,257788.94,257788.94
+"Morbi, Arunachal Pradesh",1,332823.77,332823.77
+"Ahmedabad, Meghalaya",1,42526.49,42526.49
+"Morbi, Himachal Pradesh",1,34238.79,34238.79
+"Morbi, Manipur",1,353182.49,353182.49
+"Ahmedabad, Tamil Nadu",1,341119.93,341119.93
+"Morena, Himachal Pradesh",1,51965.95,51965.95
+"Morena, Karnataka",1,144295.44,144295.44
+"Morena, Tamil Nadu",1,986334.17,986334.17
+"Morena, Tripura",1,211291.05,211291.05
+"Motihari, Assam",1,389081.92,389081.92
+"Motihari, Goa",1,30243.4,30243.4
+"Motihari, Jharkhand",1,532470.76,532470.76
+"Motihari, Maharashtra",1,144632.64,144632.64
+"Motihari, Odisha",1,213368.84,213368.84
+"Motihari, Tamil Nadu",1,32652.2,32652.2
+"Motihari, Telangana",1,866916.67,866916.67
+"Motihari, West Bengal",1,431727.52,431727.52
+"Ahmednagar, Jharkhand",1,198814.75,198814.75
+"Mumbai, Goa",1,400846.9,400846.9
+"Mumbai, West Bengal",1,111341.03,111341.03
+"Munger, Himachal Pradesh",1,60321.5,60321.5
+"Munger, Jharkhand",1,888748.5,888748.5
+"Ahmednagar, Rajasthan",1,342948.21,342948.21
+"Aizawl, Arunachal Pradesh",1,164436.12,164436.12
+"Aizawl, Rajasthan",1,99429.64,99429.64
+"Muzaffarnagar, Maharashtra",1,46651.0,46651.0
+"Muzaffarnagar, Manipur",1,64064.03,64064.03
+"Ajmer, Haryana",1,109721.86,109721.86
+"Muzaffarnagar, Uttarakhand",1,130591.57,130591.57
+"Muzaffarpur, Madhya Pradesh",1,109387.03,109387.03
+"Muzaffarpur, Mizoram",1,169390.95,169390.95
+"Muzaffarpur, Tamil Nadu",1,33962.19,33962.19
+"Muzaffarpur, Uttarakhand",1,453286.18,453286.18
+"Mysore, Andhra Pradesh",1,402922.32,402922.32
+"Mysore, Jharkhand",1,110004.39,110004.39
+"Ajmer, Nagaland",1,193586.54,193586.54
+"Mysore, Maharashtra",1,231092.73,231092.73
+"Mysore, Punjab",1,51691.86,51691.86
+"Mysore, Rajasthan",1,262940.53,262940.53
+"Mysore, Telangana",1,849679.62,849679.62
+"Mysore, Tripura",1,397205.67,397205.67
+"Nadiad, Nagaland",1,231354.51,231354.51
+"Nadiad, Uttar Pradesh",1,172159.17,172159.17
+"Nadiad, Uttarakhand",1,168534.43,168534.43
+"Nagaon, Madhya Pradesh",1,369029.73,369029.73
+"Nagaon, Nagaland",1,179536.76,179536.76
+"Nagaon, Odisha",1,139489.14,139489.14
+"Nagaon, Punjab",1,247059.07,247059.07
+"Nagaon, Tamil Nadu",1,43873.59,43873.59
+"Nagercoil, Maharashtra",1,517897.84,517897.84
+"Nagercoil, Mizoram",1,590718.1,590718.1
+"Nagercoil, Uttarakhand",1,170356.95,170356.95
+"Nagpur, Andhra Pradesh",1,1018043.62,1018043.62
+"Nagpur, Gujarat",1,177209.38,177209.38
+"Nagpur, Karnataka",1,141218.05,141218.05
+"Ajmer, Punjab",1,102668.82,102668.82
+"Naihati, Goa",1,170612.67,170612.67
+"Akola, Andhra Pradesh",1,205391.44,205391.44
+"Naihati, Maharashtra",1,668761.79,668761.79
+"Naihati, Telangana",1,332549.53,332549.53
+"Naihati, Tripura",1,106327.27,106327.27
+"Naihati, Uttar Pradesh",1,354079.15,354079.15
+"Nanded, Andhra Pradesh",1,78084.26,78084.26
+"Nanded, Arunachal Pradesh",1,221832.53,221832.53
+"Nanded, Bihar",1,107994.08,107994.08
+"Nanded, Gujarat",1,119822.83,119822.83
+"Nanded, Karnataka",1,25133.93,25133.93
+"Nanded, Mizoram",1,97068.31,97068.31
+"Alappuzha, Bihar",1,193635.0,193635.0
+"Nandyal, Gujarat",1,68787.0,68787.0
+"Nandyal, Odisha",1,311140.35,311140.35
+"Alappuzha, Manipur",1,351925.91,351925.91
+"Nangloi Jat, Gujarat",1,473775.95,473775.95
+"Nangloi Jat, Jharkhand",1,198347.82,198347.82
+"Nangloi Jat, Rajasthan",1,675168.77,675168.77
+"Nangloi Jat, Tripura",1,278221.05,278221.05
+"Nangloi Jat, Uttarakhand",1,95555.05,95555.05
+"Narasaraopet, Bihar",1,128343.68,128343.68
+"Narasaraopet, Chhattisgarh",1,70935.25,70935.25
+"Alappuzha, Nagaland",1,604992.95,604992.95
+"Narasaraopet, Rajasthan",1,234133.86,234133.86
+"Alappuzha, Tamil Nadu",1,592454.19,592454.19
+"Nashik, Bihar",1,40749.88,40749.88
+"Nashik, Nagaland",1,183691.12,183691.12
+"Nashik, Punjab",1,15412.33,15412.33
+"Nashik, Tamil Nadu",1,217371.72,217371.72
+"Aligarh, Goa",1,313259.94,313259.94
+"Navi Mumbai, Karnataka",1,271514.91,271514.91
+"Navi Mumbai, Kerala",1,52404.75,52404.75
+"Navi Mumbai, Uttarakhand",1,65895.18,65895.18
+"Nellore, Punjab",1,214310.88,214310.88
+"Aligarh, Meghalaya",1,68576.11,68576.11
+"Nellore, Tamil Nadu",1,605230.19,605230.19
+"Nellore, Telangana",1,105378.19,105378.19
+"Nellore, Tripura",1,94765.99,94765.99
+"Nellore, Uttar Pradesh",1,55807.11,55807.11
+"New Delhi, Tripura",1,56937.22,56937.22
+"Nizamabad, Bihar",1,603260.38,603260.38
+"Nizamabad, Haryana",1,41629.67,41629.67
+"Nizamabad, Rajasthan",1,130703.29,130703.29
+"Noida, Andhra Pradesh",1,274338.76,274338.76
+"Noida, Chhattisgarh",1,279528.28,279528.28
+"Aligarh, Punjab",1,1295494.04,1295494.04
+"Noida, Jharkhand",1,472006.86,472006.86
+"Noida, Rajasthan",1,138451.93,138451.93
+"Noida, Uttarakhand",1,357517.26,357517.26
+"North Dumdum, Chhattisgarh",1,71410.35,71410.35
+"North Dumdum, Gujarat",1,96463.05,96463.05
+"North Dumdum, Jharkhand",1,104354.04,104354.04
+"North Dumdum, Karnataka",1,152286.88,152286.88
+"North Dumdum, Rajasthan",1,180087.5,180087.5
+"North Dumdum, Tripura",1,29046.19,29046.19
+"Ongole, Maharashtra",1,118439.61,118439.61
+"Ongole, Uttar Pradesh",1,323674.51,323674.51
+"Aligarh, Uttar Pradesh",1,176047.56,176047.56
+"Allahabad, Arunachal Pradesh",1,565920.96,565920.96
+"Orai, Maharashtra",1,37927.23,37927.23
+"Orai, Manipur",1,770924.66,770924.66
+"Orai, Rajasthan",1,180227.74,180227.74
+"Orai, Telangana",1,75391.31,75391.31
+"Orai, West Bengal",1,398285.19,398285.19
+"Ozhukarai, Manipur",1,66958.53,66958.53
+"Ozhukarai, Mizoram",1,85645.57,85645.57
+"Ozhukarai, Nagaland",1,581493.51,581493.51
+"Ozhukarai, Punjab",1,78068.99,78068.99
+"Ozhukarai, Uttarakhand",1,443182.79,443182.79
+"Pali, Kerala",1,496691.65,496691.65
+"Pali, Nagaland",1,274930.79,274930.79
+"Pali, Rajasthan",1,177252.59,177252.59
+"Pali, Tripura",1,332750.69,332750.69
+"Pali, Uttarakhand",1,253340.35,253340.35
+"Pallavaram, Bihar",1,180583.81,180583.81
+"Pallavaram, Goa",1,402876.4,402876.4
+"Pallavaram, Gujarat",1,230206.61,230206.61
+"Pallavaram, Kerala",1,85570.33,85570.33
+"Pallavaram, Manipur",1,169549.37,169549.37
+"Allahabad, Gujarat",1,643095.55,643095.55
+"Panchkula, Assam",1,472618.41,472618.41
+"Panchkula, Bihar",1,62221.6,62221.6
+"Panchkula, Karnataka",1,635421.72,635421.72
+"Panchkula, Nagaland",1,29924.34,29924.34
+"Panihati, Karnataka",1,124005.2,124005.2
+"Panihati, Maharashtra",1,545718.79,545718.79
+"Panihati, Manipur",1,47332.16,47332.16
+"Panihati, Meghalaya",1,1170978.02,1170978.02
+"Panihati, Sikkim",1,46948.11,46948.11
+"Panipat, Gujarat",1,86894.42,86894.42
+"Panipat, Meghalaya",1,456781.69,456781.69
+"Panipat, Punjab",1,140423.36,140423.36
+"Panvel, Andhra Pradesh",1,126101.88,126101.88
+"Panvel, Assam",1,1383520.17,1383520.17
+"Panvel, Himachal Pradesh",1,539505.53,539505.53
+"Panvel, Meghalaya",1,273024.62,273024.62
+"Panvel, Tamil Nadu",1,292857.45,292857.45
+"Panvel, Uttar Pradesh",1,34069.4,34069.4
+"Parbhani, Bihar",1,399200.05,399200.05
+"Parbhani, Goa",1,326943.3,326943.3
+"Parbhani, Meghalaya",1,185617.53,185617.53
+"Allahabad, Jharkhand",1,79709.28,79709.28
+"Patiala, Mizoram",1,333364.63,333364.63
+"Patiala, Punjab",1,115755.57,115755.57
+"Patiala, Sikkim",1,262050.14,262050.14
+"Patiala, Uttar Pradesh",1,168558.86,168558.86
+"Patna, Himachal Pradesh",1,407660.69,407660.69
+"Patna, Odisha",1,199715.38,199715.38
+"Phagwara, Manipur",1,259048.48,259048.48
+"Phagwara, Mizoram",1,85116.74,85116.74
+"Allahabad, Madhya Pradesh",1,596085.36,596085.36
+"Phusro, Jharkhand",1,148680.14,148680.14
+"Phusro, Maharashtra",1,244660.82,244660.82
+"Phusro, Tamil Nadu",1,66230.59,66230.59
+"Phusro, Tripura",1,118168.0,118168.0
+"Phusro, West Bengal",1,95522.84,95522.84
+"Pimpri-Chinchwad, Bihar",1,329705.48,329705.48
+"Pimpri-Chinchwad, Karnataka",1,252089.64,252089.64
+"Pimpri-Chinchwad, Manipur",1,275141.69,275141.69
+"Pimpri-Chinchwad, Rajasthan",1,283667.92,283667.92
+"Pimpri-Chinchwad, Sikkim",1,600291.64,600291.64
+"Allahabad, Tamil Nadu",1,544762.23,544762.23
+"Pondicherry, Himachal Pradesh",1,638160.32,638160.32
+"Pondicherry, Jharkhand",1,81219.59,81219.59
+"Pondicherry, Punjab",1,1247466.01,1247466.01
+"Pondicherry, Tripura",1,80134.57,80134.57
+"Proddatur, Andhra Pradesh",1,107847.29,107847.29
+"Proddatur, Bihar",1,2090360.73,2090360.73
+"Proddatur, Chhattisgarh",1,35210.08,35210.08
+"Proddatur, Goa",1,440761.96,440761.96
+"Proddatur, Haryana",1,174322.18,174322.18
+"Proddatur, Maharashtra",1,79814.54,79814.54
+"Proddatur, Tamil Nadu",1,183786.35,183786.35
+"Pudukkottai, Arunachal Pradesh",1,37469.32,37469.32
+"Pudukkottai, Assam",1,231819.71,231819.71
+"Pudukkottai, Chhattisgarh",1,234782.41,234782.41
+"Pudukkottai, Goa",1,139685.87,139685.87
+"Pudukkottai, Himachal Pradesh",1,62123.82,62123.82
+"Pudukkottai, Jharkhand",1,38790.03,38790.03
+"Pudukkottai, Tamil Nadu",1,1072817.52,1072817.52
+"Pune, Goa",1,107770.02,107770.02
+"Pune, Jharkhand",1,465205.79,465205.79
+"Alwar, Punjab",1,95493.07,95493.07
+"Pune, Madhya Pradesh",1,391242.34,391242.34
+"Pune, Meghalaya",1,293692.36,293692.36
+"Pune, Mizoram",1,669015.69,669015.69
+"Pune, Odisha",1,218463.26,218463.26
+"Purnia, Assam",1,753815.0,753815.0
+"Purnia, Bihar",1,213331.02,213331.02
+"Purnia, Madhya Pradesh",1,212758.31,212758.31
+"Purnia, Mizoram",1,143920.14,143920.14
+"Purnia, Punjab",1,282974.76,282974.76
+"Purnia, Tamil Nadu",1,87193.21,87193.21
+"Raebareli, Assam",1,75434.56,75434.56
+"Raebareli, Jharkhand",1,198818.33,198818.33
+"Raebareli, Madhya Pradesh",1,300270.9,300270.9
+"Alwar, West Bengal",1,489329.12,489329.12
+"Raebareli, Punjab",1,271986.16,271986.16
+"Raebareli, Sikkim",1,58944.33,58944.33
+"Amaravati, Manipur",1,592150.67,592150.67
+"Raichur, Arunachal Pradesh",1,88409.93,88409.93
+"Raichur, Gujarat",1,156092.07,156092.07
+"Raichur, Karnataka",1,489806.24,489806.24
+"Raichur, Meghalaya",1,229370.76,229370.76
+"Raiganj, Goa",1,63274.92,63274.92
+"Raiganj, Jharkhand",1,859776.91,859776.91
+"Raiganj, Manipur",1,154457.97,154457.97
+"Raiganj, Rajasthan",1,568289.47,568289.47
+"Raipur, Haryana",1,358877.09,358877.09
+"Raipur, Uttarakhand",1,161876.45,161876.45
+"Rajahmundry, Bihar",1,283698.26,283698.26
+"Rajahmundry, Goa",1,1273271.55,1273271.55
+"Rajahmundry, Himachal Pradesh",1,428805.24,428805.24
+"Rajahmundry, Uttar Pradesh",1,395702.33,395702.33
+"Rajahmundry, Uttarakhand",1,288362.46,288362.46
+"Amaravati, Nagaland",1,138489.67,138489.67
+"Rajkot, Tamil Nadu",1,36571.87,36571.87
+"Rajpur Sonarpur, Arunachal Pradesh",1,579596.75,579596.75
+"Rajpur Sonarpur, Himachal Pradesh",1,408307.89,408307.89
+"Rajpur Sonarpur, Manipur",1,280260.42,280260.42
+"Rajpur Sonarpur, Tamil Nadu",1,84837.52,84837.52
+"Ramagundam, Arunachal Pradesh",1,32901.81,32901.81
+"Ramagundam, Goa",1,404658.69,404658.69
+"Ramagundam, Jharkhand",1,60570.46,60570.46
+"Amaravati, Rajasthan",1,189668.38,189668.38
+"Ramgarh, Arunachal Pradesh",1,87544.51,87544.51
+"Ramgarh, Uttarakhand",1,523325.31,523325.31
+"Rampur, Arunachal Pradesh",1,492804.44,492804.44
+"Rampur, Himachal Pradesh",1,220512.01,220512.01
+"Rampur, Nagaland",1,426524.94,426524.94
+"Rampur, Tamil Nadu",1,69880.97,69880.97
+"Rampur, West Bengal",1,148098.62,148098.62
+"Ranchi, Assam",1,109828.01,109828.01
+"Ranchi, Kerala",1,63176.29,63176.29
+"Ranchi, Meghalaya",1,361008.77,361008.77
+"Ranchi, Uttar Pradesh",1,222841.65,222841.65
+"Ranchi, West Bengal",1,256230.4,256230.4
+"Ratlam, Arunachal Pradesh",1,918615.57,918615.57
+"Ratlam, Jharkhand",1,524085.99,524085.99
+"Ratlam, Karnataka",1,742057.58,742057.58
+"Ratlam, Kerala",1,83365.03,83365.03
+"Ratlam, Sikkim",1,398998.49,398998.49
+"Ratlam, Telangana",1,700538.09,700538.09
+"Ratlam, Uttar Pradesh",1,153807.4,153807.4
+"Ratlam, Uttarakhand",1,104347.26,104347.26
+"Ratlam, West Bengal",1,75603.19,75603.19
+"Raurkela Industrial Township, Assam",1,224179.04,224179.04
+"Amaravati, Uttar Pradesh",1,923786.69,923786.69
+"Raurkela Industrial Township, Sikkim",1,235606.69,235606.69
+"Raurkela Industrial Township, Tripura",1,303492.14,303492.14
+"Ambala, Meghalaya",1,683136.78,683136.78
+"Rewa, Arunachal Pradesh",1,135791.18,135791.18
+"Rewa, Punjab",1,191902.95,191902.95
+"Rohtak, Andhra Pradesh",1,123685.97,123685.97
+"Rohtak, Karnataka",1,188525.74,188525.74
+"Rohtak, Manipur",1,73582.03,73582.03
+"Rohtak, Mizoram",1,701566.37,701566.37
+"Ambala, Sikkim",1,628112.74,628112.74
+"Ambarnath, Assam",1,39900.68,39900.68
+"Rourkela, Himachal Pradesh",1,188659.54,188659.54
+"Rourkela, Madhya Pradesh",1,34757.27,34757.27
+"Rourkela, Meghalaya",1,507324.73,507324.73
+"Sagar, Chhattisgarh",1,37919.64,37919.64
+"Sagar, Kerala",1,384844.52,384844.52
+"Sagar, Madhya Pradesh",1,84273.92,84273.92
+"Sagar, Manipur",1,36299.28,36299.28
+"Sagar, Sikkim",1,340334.47,340334.47
+"Sagar, Tamil Nadu",1,91458.76,91458.76
+"Sagar, West Bengal",1,239212.93,239212.93
+"Ambarnath, Jharkhand",1,273795.14,273795.14
+"Saharanpur, Nagaland",1,322748.69,322748.69
+"Saharanpur, Tamil Nadu",1,64463.22,64463.22
+"Saharanpur, Uttar Pradesh",1,108058.23,108058.23
+"Saharsa, Arunachal Pradesh",1,319999.24,319999.24
+"Saharsa, Nagaland",1,271585.79,271585.79
+"Saharsa, Sikkim",1,140624.47,140624.47
+"Saharsa, Tripura",1,50419.02,50419.02
+"Saharsa, West Bengal",1,402090.31,402090.31
+"Salem, Goa",1,342197.4,342197.4
+"Salem, Punjab",1,188777.95,188777.95
+"Sambalpur, Arunachal Pradesh",1,157245.46,157245.46
+"Sambalpur, Himachal Pradesh",1,189782.8,189782.8
+"Sambalpur, Mizoram",1,885259.79,885259.79
+"Sambalpur, Rajasthan",1,380800.8,380800.8
+"Sambalpur, West Bengal",1,210787.22,210787.22
+"Sambhal, Arunachal Pradesh",1,798574.16,798574.16
+"Sambhal, Haryana",1,177439.34,177439.34
+"Sambhal, Madhya Pradesh",1,605017.47,605017.47
+"Sambhal, Manipur",1,271273.17,271273.17
+"Sambhal, Telangana",1,148652.79,148652.79
+"Sambhal, Uttar Pradesh",1,129013.35,129013.35
+"Sangli-Miraj & Kupwad, Goa",1,87025.71,87025.71
+"Sangli-Miraj & Kupwad, Jharkhand",1,258238.41,258238.41
+"Sangli-Miraj & Kupwad, Madhya Pradesh",1,45504.33,45504.33
+"Ambattur, Kerala",1,54110.44,54110.44
+"Sangli-Miraj & Kupwad, Mizoram",1,623675.97,623675.97
+"Ambattur, Madhya Pradesh",1,278011.74,278011.74
+"Sangli-Miraj & Kupwad, Tripura",1,174729.49,174729.49
+"Sangli-Miraj & Kupwad, Uttar Pradesh",1,118994.44,118994.44
+"Sasaram, Kerala",1,368054.59,368054.59
+"Sasaram, Manipur",1,61947.28,61947.28
+"Sasaram, Mizoram",1,106870.55,106870.55
+"Sasaram, Sikkim",1,104263.67,104263.67
+"Sasaram, Telangana",1,385790.23,385790.23
+"Sasaram, Tripura",1,238199.56,238199.56
+"Sasaram, Uttarakhand",1,477405.57,477405.57
+"Sasaram, West Bengal",1,135336.03,135336.03
+"Satara, Andhra Pradesh",1,20031.09,20031.09
+"Satara, Arunachal Pradesh",1,228189.79,228189.79
+"Satara, Assam",1,136780.45,136780.45
+"Satara, Bihar",1,119109.85,119109.85
+"Satara, Chhattisgarh",1,1423609.23,1423609.23
+"Satara, Gujarat",1,77736.03,77736.03
+"Satara, Nagaland",1,233289.24,233289.24
+"Satara, Odisha",1,435734.4,435734.4
+"Satara, Tripura",1,93357.37,93357.37
+"Satna, Assam",1,561082.87,561082.87
+"Satna, Karnataka",1,436107.1,436107.1
+"Satna, Odisha",1,162251.5,162251.5
+"Satna, Rajasthan",1,77978.41,77978.41
+"Secunderabad, Haryana",1,113634.9,113634.9
+"Secunderabad, Karnataka",1,108549.7,108549.7
+"Secunderabad, Kerala",1,159716.48,159716.48
+"Secunderabad, Madhya Pradesh",1,989321.73,989321.73
+"Secunderabad, Tamil Nadu",1,132295.33,132295.33
+"Secunderabad, West Bengal",1,139511.01,139511.01
+"Serampore, Arunachal Pradesh",1,284910.12,284910.12
+"Serampore, Karnataka",1,43352.1,43352.1
+"Serampore, Madhya Pradesh",1,239776.48,239776.48
+"Serampore, Manipur",1,661613.1,661613.1
+"Shahjahanpur, Arunachal Pradesh",1,80389.0,80389.0
+"Shahjahanpur, Meghalaya",1,205122.28,205122.28
+"Shahjahanpur, Mizoram",1,52439.9,52439.9
+"Shahjahanpur, Odisha",1,239943.75,239943.75
+"Shahjahanpur, Rajasthan",1,233791.71,233791.71
+"Shahjahanpur, West Bengal",1,785261.83,785261.83
+"Ambattur, Maharashtra",1,946306.61,946306.61
+"Shimla, Maharashtra",1,142325.81,142325.81
+"Shimla, Meghalaya",1,320758.31,320758.31
+"Ambattur, Telangana",1,190494.18,190494.18
+"Ambattur, Tripura",1,544394.81,544394.81
+"Shimoga, Assam",1,57557.56,57557.56
+"Shimoga, Punjab",1,180448.31,180448.31
+"Shimoga, Telangana",1,320334.73,320334.73
+"Shivpuri, Assam",1,129124.27,129124.27
+"Shivpuri, Chhattisgarh",1,591494.23,591494.23
+"Ambattur, Uttar Pradesh",1,754250.57,754250.57
+"Shivpuri, Jharkhand",1,240776.55,240776.55
+"Shivpuri, Maharashtra",1,338838.38,338838.38
+"Shivpuri, Tripura",1,262158.17,262158.17
+"Sikar, Andhra Pradesh",1,480348.42,480348.42
+"Sikar, Gujarat",1,128897.56,128897.56
+"Sikar, Rajasthan",1,519496.04,519496.04
+"Sikar, Telangana",1,99811.81,99811.81
+"Silchar, Chhattisgarh",1,221653.59,221653.59
+"Silchar, Haryana",1,276728.43,276728.43
+"Amravati, Arunachal Pradesh",1,513749.68,513749.68
+"Silchar, Nagaland",1,193737.99,193737.99
+"Silchar, Odisha",1,116438.76,116438.76
+"Silchar, Uttarakhand",1,635559.03,635559.03
+"Siliguri, Assam",1,159644.11,159644.11
+"Siliguri, Bihar",1,229779.92,229779.92
+"Siliguri, Himachal Pradesh",1,79720.73,79720.73
+"Siliguri, Kerala",1,21477.77,21477.77
+"Siliguri, Tripura",1,225531.67,225531.67
+"Siliguri, Uttarakhand",1,826957.52,826957.52
+"Singrauli, Arunachal Pradesh",1,443288.4,443288.4
+"Singrauli, Bihar",1,164427.62,164427.62
+"Singrauli, Chhattisgarh",1,173211.53,173211.53
+"Singrauli, Goa",1,27998.37,27998.37
+"Singrauli, Meghalaya",1,228667.09,228667.09
+"Amravati, Chhattisgarh",1,76968.68,76968.68
+"Singrauli, West Bengal",1,206488.59,206488.59
+"Sirsa, Arunachal Pradesh",1,30946.82,30946.82
+"Sirsa, Assam",1,152614.67,152614.67
+"Sirsa, Bihar",1,68396.11,68396.11
+"Sirsa, Haryana",1,773042.84,773042.84
+"Sirsa, Karnataka",1,181044.33,181044.33
+"Sirsa, Madhya Pradesh",1,771779.85,771779.85
+"Siwan, Bihar",1,1126209.53,1126209.53
+"Siwan, Chhattisgarh",1,522512.56,522512.56
+"Siwan, Karnataka",1,260517.13,260517.13
+"Siwan, Madhya Pradesh",1,159306.07,159306.07
+"Siwan, Punjab",1,190977.72,190977.72
+"Siwan, Tamil Nadu",1,160377.89,160377.89
+"Solapur, Jharkhand",1,1240309.63,1240309.63
+"Solapur, Odisha",1,163536.75,163536.75
+"Solapur, Sikkim",1,1189467.34,1189467.34
+"Solapur, West Bengal",1,214751.42,214751.42
+"Sonipat, Arunachal Pradesh",1,60478.73,60478.73
+"Sonipat, Maharashtra",1,300050.35,300050.35
+"Sonipat, Manipur",1,1459722.63,1459722.63
+"Sonipat, Punjab",1,703060.43,703060.43
+"Sonipat, Rajasthan",1,56246.53,56246.53
+"South Dumdum, Goa",1,270402.34,270402.34
+"South Dumdum, Kerala",1,477383.39,477383.39
+"South Dumdum, Meghalaya",1,242987.01,242987.01
+"Sri Ganganagar, Bihar",1,108557.84,108557.84
+"Sri Ganganagar, Gujarat",1,193271.78,193271.78
+"Sri Ganganagar, Punjab",1,52529.52,52529.52
+"Sri Ganganagar, Telangana",1,60052.24,60052.24
+"Sri Ganganagar, West Bengal",1,369735.86,369735.86
+"Srikakulam, Arunachal Pradesh",1,71665.2,71665.2
+"Srikakulam, Bihar",1,173449.49,173449.49
+"Srikakulam, Goa",1,614603.75,614603.75
+"Amravati, Tamil Nadu",1,146608.47,146608.47
+"Srikakulam, Manipur",1,382049.24,382049.24
+"Srikakulam, Meghalaya",1,214638.83,214638.83
+"Srikakulam, Mizoram",1,533796.76,533796.76
+"Amritsar, Bihar",1,284742.37,284742.37
+"Srikakulam, West Bengal",1,84395.14,84395.14
+"Srinagar, Mizoram",1,253263.1,253263.1
+"Sultan Pur Majra, Haryana",1,88323.18,88323.18
+"Sultan Pur Majra, Nagaland",1,467515.25,467515.25
+"Sultan Pur Majra, Punjab",1,653747.52,653747.52
+"Sultan Pur Majra, Tamil Nadu",1,239635.61,239635.61
+"Sultan Pur Majra, Telangana",1,28115.51,28115.51
+"Surat, Kerala",1,99935.61,99935.61
+"Surat, Nagaland",1,406722.92,406722.92
+"Surat, Punjab",1,237491.29,237491.29
+"Surat, Telangana",1,90626.11,90626.11
+"Surendranagar Dudhrej, Assam",1,621152.6,621152.6
+"Amritsar, Haryana",1,186331.03,186331.03
+"Surendranagar Dudhrej, Manipur",1,1204460.07,1204460.07
+"Surendranagar Dudhrej, Odisha",1,394236.35,394236.35
+"Suryapet, Bihar",1,105768.82,105768.82
+"Suryapet, Jharkhand",1,757582.63,757582.63
+"Suryapet, Madhya Pradesh",1,80005.39,80005.39
+"Suryapet, Meghalaya",1,44567.67,44567.67
+"Suryapet, Nagaland",1,224113.93,224113.93
+"Suryapet, Rajasthan",1,493000.12,493000.12
+"Tadepalligudem, Madhya Pradesh",1,736991.95,736991.95
+"Tadepalligudem, Mizoram",1,212482.56,212482.56
+"Amritsar, Himachal Pradesh",1,595283.61,595283.61
+"Tadepalligudem, Telangana",1,1006333.12,1006333.12
+"Tadepalligudem, Uttarakhand",1,231172.01,231172.01
+"Tadipatri, Himachal Pradesh",1,349150.03,349150.03
+"Tadipatri, Maharashtra",1,1448042.12,1448042.12
+"Amritsar, Madhya Pradesh",1,83292.52,83292.52
+"Tadipatri, Punjab",1,231006.02,231006.02
+"Tadipatri, West Bengal",1,98215.71,98215.71
+"Tenali, Gujarat",1,561007.54,561007.54
+"Tenali, Jharkhand",1,74788.29,74788.29
+"Tenali, Tripura",1,420648.88,420648.88
+"Tezpur, Karnataka",1,139488.33,139488.33
+"Tezpur, Manipur",1,156576.44,156576.44
+"Amritsar, Mizoram",1,607089.0,607089.0
+"Tezpur, Odisha",1,188870.07,188870.07
+"Tezpur, Punjab",1,76612.3,76612.3
+"Thane, Andhra Pradesh",1,174438.96,174438.96
+"Thane, Arunachal Pradesh",1,49799.21,49799.21
+"Thane, Bihar",1,146428.06,146428.06
+"Thane, Meghalaya",1,113906.11,113906.11
+"Thanjavur, Himachal Pradesh",1,318202.54,318202.54
+"Thanjavur, Kerala",1,867236.71,867236.71
+"Thanjavur, West Bengal",1,274513.81,274513.81
+"Thiruvananthapuram, Nagaland",1,183755.06,183755.06
+"Thiruvananthapuram, Punjab",1,201857.05,201857.05
+"Thiruvananthapuram, Uttarakhand",1,545025.39,545025.39
+"Thoothukudi, Haryana",1,297822.53,297822.53
+"Thoothukudi, Jharkhand",1,40118.14,40118.14
+"Thoothukudi, Punjab",1,1110139.48,1110139.48
+"Amritsar, Nagaland",1,167598.56,167598.56
+"Thrissur, Chhattisgarh",1,248050.09,248050.09
+"Thrissur, Manipur",1,462968.81,462968.81
+"Thrissur, Meghalaya",1,1079705.42,1079705.42
+"Thrissur, Tamil Nadu",1,106723.04,106723.04
+"Thrissur, Uttarakhand",1,77090.07,77090.07
+"Tinsukia, Andhra Pradesh",1,805008.99,805008.99
+"Tinsukia, Chhattisgarh",1,547262.48,547262.48
+"Tinsukia, Jharkhand",1,611896.89,611896.89
+"Tinsukia, Maharashtra",1,434303.47,434303.47
+"Tiruchirappalli, Andhra Pradesh",1,227414.25,227414.25
+"Tiruchirappalli, Madhya Pradesh",1,432636.47,432636.47
+"Tiruchirappalli, Tamil Nadu",1,326334.79,326334.79
+"Tirunelveli, Goa",1,110430.26,110430.26
+"Tirunelveli, Gujarat",1,179995.71,179995.71
+"Tirunelveli, Madhya Pradesh",1,328072.92,328072.92
+"Tirunelveli, West Bengal",1,88531.73,88531.73
+"Tirupati, Andhra Pradesh",1,88327.38,88327.38
+"Tirupati, Assam",1,206584.48,206584.48
+"Tirupati, Goa",1,62833.35,62833.35
+"Tirupati, Gujarat",1,112821.56,112821.56
+"Tirupati, Jharkhand",1,43529.89,43529.89
+"Tirupati, Punjab",1,136604.05,136604.05
+"Tirupati, Rajasthan",1,193784.16,193784.16
+"Tirupati, Sikkim",1,42922.72,42922.72
+"Tirupati, Tripura",1,483101.73,483101.73
+"Tirupati, Uttar Pradesh",1,81124.22,81124.22
+"Tirupati, West Bengal",1,229393.9,229393.9
+"Amritsar, Punjab",1,301125.87,301125.87
+"Tiruppur, Himachal Pradesh",1,326706.66,326706.66
+"Tiruppur, Tamil Nadu",1,276884.01,276884.01
+"Tiruppur, Uttarakhand",1,371515.05,371515.05
+"Tiruvottiyur, Manipur",1,68860.86,68860.86
+"Tiruvottiyur, Punjab",1,322390.95,322390.95
+"Tiruvottiyur, West Bengal",1,66256.88,66256.88
+"Tumkur, Nagaland",1,23525.66,23525.66
+"Amritsar, Sikkim",1,721801.26,721801.26
+"Tumkur, Uttarakhand",1,673519.57,673519.57
+"Udaipur, Bihar",1,426554.47,426554.47
+"Udaipur, Gujarat",1,455754.97,455754.97
+"Udupi, Assam",1,261397.69,261397.69
+"Udupi, Chhattisgarh",1,84783.2,84783.2
+"Udupi, Manipur",1,99348.77,99348.77
+"Udupi, Mizoram",1,451863.18,451863.18
+"Udupi, West Bengal",1,251314.8,251314.8
+"Ujjain, Manipur",1,111720.24,111720.24
+"Ujjain, Meghalaya",1,328705.32,328705.32
+"Ujjain, Punjab",1,472949.3,472949.3
+"Ujjain, Uttarakhand",1,89508.95,89508.95
+"Ulhasnagar, Chhattisgarh",1,34183.24,34183.24
+"Ulhasnagar, Goa",1,423916.81,423916.81
+"Ulhasnagar, Haryana",1,87859.58,87859.58
+"Ulhasnagar, Rajasthan",1,202221.36,202221.36
+"Ulhasnagar, Tamil Nadu",1,440220.22,440220.22
+"Amritsar, Telangana",1,767655.95,767655.95
+"Ulhasnagar, Tripura",1,60467.2,60467.2
+"Uluberia, Himachal Pradesh",1,133690.71,133690.71
+"Amroha, Himachal Pradesh",1,172684.89,172684.89
+"Uluberia, Kerala",1,59163.12,59163.12
+"Unnao, Karnataka",1,430695.41,430695.41
+"Unnao, Manipur",1,198074.04,198074.04
+"Vadodara, Manipur",1,364647.87,364647.87
+"Varanasi, Odisha",1,60195.5,60195.5
+"Varanasi, Rajasthan",1,676935.98,676935.98
+"Varanasi, Tamil Nadu",1,195691.13,195691.13
+"Varanasi, Telangana",1,209869.87,209869.87
+"Vasai-Virar, Jharkhand",1,181976.42,181976.42
+"Vasai-Virar, Karnataka",1,403062.36,403062.36
+"Vasai-Virar, Sikkim",1,120240.76,120240.76
+"Vasai-Virar, Uttar Pradesh",1,160114.89,160114.89
+"Vellore, Mizoram",1,66023.78,66023.78
+"Vellore, Nagaland",1,214002.74,214002.74
+"Ahmedabad, Manipur",1,270303.39,270303.39
+"Adoni, Karnataka",1,234596.24,234596.24
+"Adoni, Nagaland",1,132479.92,132479.92
+"Adoni, Tamil Nadu",1,574522.01,574522.01
+"Agartala, Assam",1,59192.41,59192.41
+"Agartala, Bihar",1,95766.75,95766.75
+"Agartala, Mizoram",1,256808.95,256808.95
+"Agartala, Tripura",1,130393.97,130393.97
+"Agartala, Uttar Pradesh",1,141906.72,141906.72
+"Agra, Goa",1,73916.63,73916.63
+"Agra, Haryana",1,59609.67,59609.67
+"Agra, Manipur",1,394158.73,394158.73
+"Agra, Odisha",1,55994.85,55994.85
+"Ahmedabad, Bihar",1,116768.45,116768.45
+"Ahmedabad, Haryana",1,177001.49,177001.49
+"Adoni, Jharkhand",1,328719.14,328719.14
+"Visakhapatnam, Nagaland",1,135516.87,135516.87
+"Vellore, Sikkim",1,913462.84,913462.84
+"Vijayanagaram, Bihar",1,89261.08,89261.08
+"Vijayanagaram, Chhattisgarh",1,67959.83,67959.83
+"Vijayanagaram, Manipur",1,140999.8,140999.8
+"Vijayanagaram, Mizoram",1,152063.77,152063.77
+"Vijayanagaram, Punjab",1,292908.24,292908.24
+"Vijayanagaram, Tripura",1,58768.83,58768.83
+"Vijayanagaram, Uttarakhand",1,45813.36,45813.36
+"Vijayawada, Chhattisgarh",1,75999.89,75999.89
+"Vijayawada, Karnataka",1,635480.35,635480.35
+"Vijayawada, Kerala",1,235019.4,235019.4
+"Vijayawada, Tamil Nadu",1,281627.9,281627.9
+"Visakhapatnam, Assam",1,90612.86,90612.86
+"Visakhapatnam, Goa",1,260426.53,260426.53
+"Adoni, Andhra Pradesh",1,260082.01,260082.01

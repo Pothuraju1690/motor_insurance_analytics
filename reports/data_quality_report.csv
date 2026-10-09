@@ -1,0 +1,107 @@
+dataset,check,column,issue_count,details
+customers,row_count,,20000,"20000 rows, 8 columns"
+customers,column_count,,8,Columns found: 8
+customers,missing_required_columns,,0,None
+customers,duplicate_rows,,0,Entire rows that are exact duplicates
+customers,missing_values,customer_id,0,Detected dtype: str
+customers,missing_values,customer_name,0,Detected dtype: str
+customers,missing_values,gender,0,Detected dtype: str
+customers,missing_values,date_of_birth,0,Detected dtype: str
+customers,missing_values,age,0,Detected dtype: int64
+customers,missing_values,city,0,Detected dtype: str
+customers,missing_values,state,0,Detected dtype: str
+customers,missing_values,occupation,0,Detected dtype: str
+customers,missing_primary_key,customer_id,0,Rows without a primary-key value
+customers,duplicate_primary_key,customer_id,0,Repeated key occurrences after the first
+vehicles,row_count,,25000,"25000 rows, 8 columns"
+vehicles,column_count,,8,Columns found: 8
+vehicles,missing_required_columns,,0,None
+vehicles,duplicate_rows,,0,Entire rows that are exact duplicates
+vehicles,missing_values,vehicle_id,0,Detected dtype: str
+vehicles,missing_values,customer_id,0,Detected dtype: str
+vehicles,missing_values,vehicle_type,0,Detected dtype: str
+vehicles,missing_values,vehicle_make,0,Detected dtype: str
+vehicles,missing_values,vehicle_model,0,Detected dtype: str
+vehicles,missing_values,vehicle_year,0,Detected dtype: int64
+vehicles,missing_values,fuel_type,0,Detected dtype: str
+vehicles,missing_values,vehicle_value,0,Detected dtype: float64
+vehicles,missing_primary_key,vehicle_id,0,Rows without a primary-key value
+vehicles,duplicate_primary_key,vehicle_id,0,Repeated key occurrences after the first
+policies,row_count,,25000,"25000 rows, 10 columns"
+policies,column_count,,10,Columns found: 10
+policies,missing_required_columns,,0,None
+policies,duplicate_rows,,0,Entire rows that are exact duplicates
+policies,missing_values,policy_id,0,Detected dtype: str
+policies,missing_values,customer_id,0,Detected dtype: str
+policies,missing_values,vehicle_id,0,Detected dtype: str
+policies,missing_values,policy_start_date,0,Detected dtype: str
+policies,missing_values,policy_end_date,0,Detected dtype: str
+policies,missing_values,policy_type,0,Detected dtype: str
+policies,missing_values,premium_amount,0,Detected dtype: float64
+policies,missing_values,coverage_amount,0,Detected dtype: float64
+policies,missing_values,policy_status,0,Detected dtype: str
+policies,missing_values,payment_frequency,0,Detected dtype: str
+policies,missing_primary_key,policy_id,0,Rows without a primary-key value
+policies,duplicate_primary_key,policy_id,0,Repeated key occurrences after the first
+claims,row_count,,10000,"10000 rows, 12 columns"
+claims,column_count,,12,Columns found: 12
+claims,missing_required_columns,,0,None
+claims,duplicate_rows,,0,Entire rows that are exact duplicates
+claims,missing_values,claim_id,0,Detected dtype: str
+claims,missing_values,policy_id,0,Detected dtype: str
+claims,missing_values,customer_id,0,Detected dtype: str
+claims,missing_values,claim_date,0,Detected dtype: str
+claims,missing_values,accident_date,0,Detected dtype: str
+claims,missing_values,claim_type,0,Detected dtype: str
+claims,missing_values,accident_location,0,Detected dtype: str
+claims,missing_values,claim_amount,0,Detected dtype: float64
+claims,missing_values,claim_status,0,Detected dtype: str
+claims,missing_values,approval_date,2951,Detected dtype: str
+claims,missing_values,settlement_date,6741,Detected dtype: str
+claims,missing_values,damage_severity,0,Detected dtype: str
+claims,missing_primary_key,claim_id,0,Rows without a primary-key value
+claims,duplicate_primary_key,claim_id,0,Repeated key occurrences after the first
+payments,row_count,,7000,"7000 rows, 7 columns"
+payments,column_count,,7,Columns found: 7
+payments,missing_required_columns,,0,None
+payments,duplicate_rows,,0,Entire rows that are exact duplicates
+payments,missing_values,payment_id,0,Detected dtype: str
+payments,missing_values,claim_id,0,Detected dtype: str
+payments,missing_values,policy_id,0,Detected dtype: str
+payments,missing_values,payment_date,0,Detected dtype: str
+payments,missing_values,payment_amount,0,Detected dtype: float64
+payments,missing_values,payment_status,0,Detected dtype: str
+payments,missing_values,payment_method,0,Detected dtype: str
+payments,missing_primary_key,payment_id,0,Rows without a primary-key value
+payments,duplicate_primary_key,payment_id,0,Repeated key occurrences after the first
+vehicles,invalid_numeric_values,vehicle_value,0,Non-empty values that cannot be converted to numbers
+vehicles,negative_values,vehicle_value,0,Negative amounts or values require review
+policies,invalid_numeric_values,premium_amount,0,Non-empty values that cannot be converted to numbers
+policies,negative_values,premium_amount,0,Negative amounts or values require review
+policies,invalid_numeric_values,coverage_amount,0,Non-empty values that cannot be converted to numbers
+policies,negative_values,coverage_amount,0,Negative amounts or values require review
+claims,invalid_numeric_values,claim_amount,0,Non-empty values that cannot be converted to numbers
+claims,negative_values,claim_amount,0,Negative amounts or values require review
+payments,invalid_numeric_values,payment_amount,0,Non-empty values that cannot be converted to numbers
+payments,negative_values,payment_amount,0,Negative amounts or values require review
+customers,age_out_of_range,age,0,Age below 0 or above 120
+vehicles,vehicle_year_out_of_range,vehicle_year,0,Vehicle year outside 1900–2027
+customers,invalid_dates,date_of_birth,0,Non-empty values that cannot be parsed as dates
+policies,invalid_dates,policy_start_date,0,Non-empty values that cannot be parsed as dates
+policies,invalid_dates,policy_end_date,0,Non-empty values that cannot be parsed as dates
+claims,invalid_dates,claim_date,0,Non-empty values that cannot be parsed as dates
+claims,invalid_dates,accident_date,0,Non-empty values that cannot be parsed as dates
+claims,invalid_dates,approval_date,0,Non-empty values that cannot be parsed as dates
+claims,invalid_dates,settlement_date,0,Non-empty values that cannot be parsed as dates
+payments,invalid_dates,payment_date,0,Non-empty values that cannot be parsed as dates
+policies,end_before_start,policy_end_date,59,Policy end date precedes policy start date
+claims,accident_after_claim,accident_date,0,Accident date occurs after claim date
+claims,approval_before_claim,approval_date,0,Approval date precedes claim date
+claims,settlement_before_claim,settlement_date,0,Settlement date precedes claim date
+vehicles,orphan_foreign_keys,customer_id,0,References missing from customers.customer_id
+policies,orphan_foreign_keys,customer_id,0,References missing from customers.customer_id
+policies,orphan_foreign_keys,vehicle_id,0,References missing from vehicles.vehicle_id
+claims,orphan_foreign_keys,policy_id,0,References missing from policies.policy_id
+claims,orphan_foreign_keys,customer_id,0,References missing from customers.customer_id
+payments,orphan_foreign_keys,claim_id,0,References missing from claims.claim_id
+payments,orphan_foreign_keys,policy_id,0,References missing from policies.policy_id
